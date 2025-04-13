@@ -1,0 +1,79 @@
+Evaluation of Code LLMs on Geospatial Code Generation,https://dl.acm.org/doi/10.1145/3687123.3698286,January 2025
+Teaching Code LLMs to Use Autocompletion Tools in Repository-Level Code Generation,https://dl.acm.org/doi/10.1145/3714462,May 2024
+CodeFuse-13B: A Pretrained Multi-lingual Code Large Language Model,https://dl.acm.org/doi/10.1145/3639477.3639719,June 2024
+Generating Software Tests for Mobile Applications Using Fine-Tuned Large Language Models,https://dl.acm.org/doi/10.1145/3644032.3644454,November 2024
+RTLFixer: Automatically Fixing RTL Syntax Errors with Large Language Model,https://dl.acm.org/doi/10.1145/3649329.3657353,November 2024
+Data is all you need:  Finetuning LLMs for Chip Design via an Automated design-data augmentation framework,https://dl.acm.org/doi/10.1145/3649329.3657356,June 2024
+A Performance Study of LLM-Generated Code on Leetcode,https://dl.acm.org/doi/10.1145/3661167.3661221,January 2025
+An Empirical Study of the Non-Determinism of ChatGPT in Code Generation,https://dl.acm.org/doi/10.1145/3697010,June 2024
+Towards Efficient Data Wrangling with LLMs using Code Generation,https://dl.acm.org/doi/10.1145/3650203.3663334,January 2025
+CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models,https://dl.acm.org/doi/10.1145/3701228,June 2024
+Compositional API Recommendation for Library-Oriented Code Generation,https://dl.acm.org/doi/10.1145/3643916.3644403,October 2024
+SALLM: Security Assessment of Generated Code,https://dl.acm.org/doi/10.1145/3691621.3694934,June 2024
+Mutation-based Consistency Testing for Evaluating the Code Understanding Capability of LLMs,https://dl.acm.org/doi/10.1145/3644815.3644946,May 2024
+NL2Fix: Generating Functionally Correct Code Edits from Bug Descriptions,https://dl.acm.org/doi/10.1145/3639478.3643526,October 2024
+ToxVI: a Multimodal LLM-based Framework for Generating Intervention in Toxic Code-Mixed Videos,https://dl.acm.org/doi/10.1145/3627673.3680004,April 2024
+Software/Hardware Co-Design for LLM and Its Application for Design Verification,https://dl.acm.org/doi/10.1109/ASP-DAC58780.2024.10473893,October 2024
+Time-Sensitve Retrieval-Augmented Generation for Question Answering,https://dl.acm.org/doi/10.1145/3627673.3679800,October 2024
+Knowledge Transfer from High-Resource to Low-Resource Programming Languages for Code LLMs,https://dl.acm.org/doi/10.1145/3689735,September 2023
+Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation,https://dl.acm.org/doi/10.1145/3604915.3608860,February 2023
+Re(gEx|DoS)Eval: Evaluating Generated Regular Expressions and their Proneness to DoS Attacks,https://dl.acm.org/doi/10.1145/3639476.3639757,October 2024
+Caption-Aware Multimodal Relation Extraction with Mutual Information Maximization,https://dl.acm.org/doi/10.1145/3664647.3681219,November 2023
+FlowMind: Automatic Workflow Generation with LLMs,https://dl.acm.org/doi/10.1145/3604237.3626908,May 2024
+Natural Language Dataset Generation Framework for Visualizations Powered by Large Language Models,https://dl.acm.org/doi/10.1145/3613904.3642943,May 2024
+CodeS: Towards Building Open-source Language Models for Text-to-SQL,https://dl.acm.org/doi/10.1145/3654930,July 2023
+Large Language Models are Versatile Decomposers: Decomposing Evidence and Questions for Table-based Reasoning,https://dl.acm.org/doi/10.1145/3539618.3591708,August 2024
+OpenFedLLM: Training Large Language Models on Decentralized Private Data via Federated Learning,https://dl.acm.org/doi/10.1145/3637528.3671582,November 2024
+PromptRobust: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts,https://dl.acm.org/doi/10.1145/3689217.3690621,December 2023
+The Robots Are Here: Navigating the Generative AI Revolution in Computing Education,https://dl.acm.org/doi/10.1145/3623762.3633499,July 2024
+A Deep Dive into Large Language Models for Automated Bug Localization and Repair,https://dl.acm.org/doi/10.1145/3660773,December 2024
+Data Fusion of Synthetic Query Variants With Generative Large Language Models,https://dl.acm.org/doi/10.1145/3673791.3698423,October 2024
+Generating Software Tests for Mobile Applications Using Fine-Tuned Large Language Models,https://dl.acm.org/doi/10.1145/3644032.3644454,June 2024
+Mutation-based Consistency Testing for Evaluating the Code Understanding Capability of LLMs,https://dl.acm.org/doi/10.1145/3644815.3644946,October 2024
+Benchmarking Automated Program Repair: An Extensive Study on Both Real-World and Artificial Bugs,https://dl.acm.org/doi/10.1145/3650212.3652140,October 2024
+Differential-Perceptive and Retrieval-Augmented MLLM for Change Captioning,https://dl.acm.org/doi/10.1145/3664647.3681453,October 2024
+Drowzee: Metamorphic Testing for Fact-Conflicting Hallucination Detection in Large Language Models,https://dl.acm.org/doi/10.1145/3689776,October 2024
+DRMiner: Extracting Latent Design Rationale from Jira Issue Logs,https://dl.acm.org/doi/10.1145/3691620.3695019,February 2025
+Automated Program Repair: Emerging Trends Pose and Expose Problems for Benchmarks,https://dl.acm.org/doi/10.1145/3704997,October 2024
+Software/Hardware Co-Design for LLM and Its Application for Design Verification,https://dl.acm.org/doi/10.1109/ASP-DAC58780.2024.10473893,June 2024
+A Performance Study of LLM-Generated Code on Leetcode,https://dl.acm.org/doi/10.1145/3661167.3661221,January 2025
+CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models,https://dl.acm.org/doi/10.1145/3701228,May 2024
+CodeFuse-13B: A Pretrained Multi-lingual Code Large Language Model,https://dl.acm.org/doi/10.1145/3639477.3639719,March 2024
+CodeFuse-13B: A Pretrained Multi-lingual Code Large Language Model,https://dl.acm.org/doi/10.1145/3639477.3639719,April 2024
+Lost in Translation: A Study of Bugs Introduced by Large Language Models while Translating Code,https://dl.acm.org/doi/10.1145/3597503.3639226,June 2024
+Generating Software Tests for Mobile Applications Using Fine-Tuned Large Language Models,https://dl.acm.org/doi/10.1145/3644032.3644454,October 2024
+Knowledge Transfer from High-Resource to Low-Resource Programming Languages for Code LLMs,https://dl.acm.org/doi/10.1145/3689735,November 2024
+Data is all you need:  Finetuning LLMs for Chip Design via an Automated design-data augmentation framework,https://dl.acm.org/doi/10.1145/3649329.3657356,November 2024
+PromptRobust: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts,https://dl.acm.org/doi/10.1145/3689217.3690621,May 2024
+NL2Fix: Generating Functionally Correct Code Edits from Bug Descriptions,https://dl.acm.org/doi/10.1145/3639478.3643526,May 2024
+Benchmarking Automated Program Repair: An Extensive Study on Both Real-World and Artificial Bugs,https://dl.acm.org/doi/10.1145/3650212.3652140,July 2024
+ConDefects: A Complementary Dataset to Address the Data Leakage Concern for LLM-Based Fault Localization and Program Repair,https://dl.acm.org/doi/10.1145/3663529.3663815,February 2025
+DataVinci: Learning Syntactic and Semantic String Repairs,https://dl.acm.org/doi/10.1145/3709677,July 2024
+A Deep Dive into Large Language Models for Automated Bug Localization and Repair,https://dl.acm.org/doi/10.1145/3660773,February 2025
+Automated Program Repair: Emerging Trends Pose and Expose Problems for Benchmarks,https://dl.acm.org/doi/10.1145/3704997,October 2024
+DRMiner: Extracting Latent Design Rationale from Jira Issue Logs,https://dl.acm.org/doi/10.1145/3691620.3695019,February 2023
+A Code Centric Evaluation of C/C++ Vulnerability Datasets for Deep Learning Based Vulnerability Detection Techniques,https://dl.acm.org/doi/10.1145/3578527.3578530,April 2024
+Lost in Translation: A Study of Bugs Introduced by Large Language Models while Translating Code,https://dl.acm.org/doi/10.1145/3597503.3639226,May 2024
+Evaluation of Code LLMs on Geospatial Code Generation,https://dl.acm.org/doi/10.1145/3687123.3698286,November 2024
+Data is all you need:  Finetuning LLMs for Chip Design via an Automated design-data augmentation framework,https://dl.acm.org/doi/10.1145/3649329.3657356,June 2024
+Compositional API Recommendation for Library-Oriented Code Generation,https://dl.acm.org/doi/10.1145/3643916.3644403,January 2025
+CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models,https://dl.acm.org/doi/10.1145/3701228,June 2024
+Mutation-based Consistency Testing for Evaluating the Code Understanding Capability of LLMs,https://dl.acm.org/doi/10.1145/3644815.3644946,October 2024
+Optimizing Numerical Estimation and Operational Efficiency in the Legal Domain through Large Language Models,https://dl.acm.org/doi/10.1145/3627673.3680025,August 2024
+LogParser-LLM: Advancing Efficient Log Parsing with Large Language Models,https://dl.acm.org/doi/10.1145/3637528.3671810,September 2024
+Automated Derivation of UML Sequence Diagrams from User Stories: Unleashing the Power of Generative AI vs. a Rule-Based Approach,https://dl.acm.org/doi/10.1145/3640310.3674081,September 2024
+Benchmarking Automated Program Repair: An Extensive Study on Both Real-World and Artificial Bugs,https://dl.acm.org/doi/10.1145/3650212.3652140,October 2024
+A Generative Benchmark Creation Framework for Detecting Common Data Table Versions,https://dl.acm.org/doi/10.1145/3627673.3679157,September 2023
+Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation,https://dl.acm.org/doi/10.1145/3604915.3608860,October 2024
+Content-Based Collaborative Generation for Recommender Systems,https://dl.acm.org/doi/10.1145/3627673.3679692,June 2024
+Generating Software Tests for Mobile Applications Using Fine-Tuned Large Language Models,https://dl.acm.org/doi/10.1145/3644032.3644454,November 2023
+FlowMind: Automatic Workflow Generation with LLMs,https://dl.acm.org/doi/10.1145/3604237.3626908,October 2024
+Drowzee: Metamorphic Testing for Fact-Conflicting Hallucination Detection in Large Language Models,https://dl.acm.org/doi/10.1145/3689776,January 2024
+Navigator: A Gen-AI System for Discovery of Factual and Predictive Insights on Domain-Specific Tabular Datasets,https://dl.acm.org/doi/10.1145/3632410.3632477,July 2023
+Large Language Models are Versatile Decomposers: Decomposing Evidence and Questions for Table-based Reasoning,https://dl.acm.org/doi/10.1145/3539618.3591708,January 2024
+More Than Meets the AI: Evaluating the performance of GPT-4 on Computer Graphics assessment questions,https://dl.acm.org/doi/10.1145/3636243.3636263,November 2024
+PromptRobust: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts,https://dl.acm.org/doi/10.1145/3689217.3690621,November 2024
+Towards Better Chinese Spelling Check for Search Engines: A New Dataset and Strong Baseline,https://dl.acm.org/doi/10.1145/3616855.3635847,January 2025
+Enhancing Graph Representation Learning with WalkLM for Effective Community Detection,https://dl.acm.org/doi/10.1145/3704522.3704537,October 2024
+Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition,https://dl.acm.org/doi/10.1145/3664647.3681015,March 2024
+MAPLE: Mobile App Prediction Leveraging Large Language Model Embeddings,https://dl.acm.org/doi/10.1145/3643514,November 2023

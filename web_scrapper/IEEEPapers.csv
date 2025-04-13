@@ -1,0 +1,848 @@
+RTL-Repo: A Benchmark for Evaluating LLMs on Large-Scale RTL Design Projects,IEEE Year: 2024
+FormalEval: A Method for Automatic Evaluation of Code Generation via Large Language Models,IEEE Year: 2024
+Test-Driven Development and LLM-based Code Generation,IEEE Year: 2024
+LLM - Based Code Generation for Querying Temporal Tabular Financial Data,IEEE Year: 2024
+RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and Lightweight Solution,IEEE Year: 2024
+"$\mathbf{A^{3}}$A3-CodGen: A Repository-Level Code Generation Framework for Code Reuse With Local-Aware, Global-Aware, and Third-Party-Library-Aware",IEEE Year: 2024
+Qiskit Code Assistant: Training LLMs for generating Quantum Computing Code,IEEE Year: 2024
+LLM-Based Test-Driven Interactive Code Generation: User Study and Empirical Evaluation,IEEE Year: 2024
+Benchmarking Large Language Models for Ethereum Smart Contract Development,IEEE Year: 2024
+Imperfect Code Generation: Uncovering Weaknesses in Automatic Code Generation by Large Language Models,IEEE Year: 2024
+An Empirical Comparison of Code Generation Approaches for Ansible,IEEE Year: 2024
+RGD: Multi-LLM Based Agent Debugger via Refinement and Generation Guidance,IEEE Year: 2024
+User Centric Evaluation of Code Generation Tools (Invited Paper),IEEE Year: 2024
+A Fine-tuning Dataset and Benchmark for Large Language Models for Protein Understanding,IEEE Year: 2024
+Compositional API Recommendation for Library-Oriented Code Generation,IEEE Year: 2024
+Invited Paper: VerilogEval: Evaluating Large Language Models for Verilog Code Generation,IEEE Year: 2023
+An Iteratively-refined Dataset for High-Level Synthesis Functional Verification through LLM-Aided Bug Injection,IEEE Year: 2024
+CodeFuse-13B: A Pretrained Multi-Lingual Code Large Language Model,IEEE Year: 2024
+Mutation-based Consistency Testing for Evaluating the Code Understanding Capability of LLMs,IEEE Year: 2024
+Rome was Not Built in a Single Step: Hierarchical Prompting for LLM-based Chip Design,IEEE Year: 2024
+Generating P4 Dataplanes Using LLMs,IEEE Year: 2024
+Fix the Tests: Augmenting LLMs to Repair Test Cases with Static Collector and Neural Reranker,IEEE Year: 2024
+Benchmarking Large Language Models for Automated Verilog RTL Code Generation,IEEE Year: 2023
+Towards Understanding the Effectiveness of Large Language Models on Directed Test Input Generation,IEEE Year: 2024
+ChatGPT vs SBST: A Comparative Assessment of Unit Test Suite Generation,IEEE Year: 2024
+RTL-Repo: A Benchmark for Evaluating LLMs on Large-Scale RTL Design Projects,IEEE Year: 2024
+FormalEval: A Method for Automatic Evaluation of Code Generation via Large Language Models,IEEE Year: 2024
+Test-Driven Development and LLM-based Code Generation,IEEE Year: 2024
+LLM - Based Code Generation for Querying Temporal Tabular Financial Data,IEEE Year: 2024
+RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and Lightweight Solution,IEEE Year: 2024
+"$\mathbf{A^{3}}$A3-CodGen: A Repository-Level Code Generation Framework for Code Reuse With Local-Aware, Global-Aware, and Third-Party-Library-Aware",IEEE Year: 2024
+Qiskit Code Assistant: Training LLMs for generating Quantum Computing Code,IEEE Year: 2024
+LLM-Based Test-Driven Interactive Code Generation: User Study and Empirical Evaluation,IEEE Year: 2024
+Benchmarking Large Language Models for Ethereum Smart Contract Development,IEEE Year: 2024
+Imperfect Code Generation: Uncovering Weaknesses in Automatic Code Generation by Large Language Models,IEEE Year: 2024
+An Empirical Comparison of Code Generation Approaches for Ansible,IEEE Year: 2024
+RGD: Multi-LLM Based Agent Debugger via Refinement and Generation Guidance,IEEE Year: 2024
+User Centric Evaluation of Code Generation Tools (Invited Paper),IEEE Year: 2024
+A Fine-tuning Dataset and Benchmark for Large Language Models for Protein Understanding,IEEE Year: 2024
+Compositional API Recommendation for Library-Oriented Code Generation,IEEE Year: 2024
+Invited Paper: VerilogEval: Evaluating Large Language Models for Verilog Code Generation,IEEE Year: 2023
+An Iteratively-refined Dataset for High-Level Synthesis Functional Verification through LLM-Aided Bug Injection,IEEE Year: 2024
+CodeFuse-13B: A Pretrained Multi-Lingual Code Large Language Model,IEEE Year: 2024
+Mutation-based Consistency Testing for Evaluating the Code Understanding Capability of LLMs,IEEE Year: 2024
+Rome was Not Built in a Single Step: Hierarchical Prompting for LLM-based Chip Design,IEEE Year: 2024
+Generating P4 Dataplanes Using LLMs,IEEE Year: 2024
+Fix the Tests: Augmenting LLMs to Repair Test Cases with Static Collector and Neural Reranker,IEEE Year: 2024
+Benchmarking Large Language Models for Automated Verilog RTL Code Generation,IEEE Year: 2023
+Towards Understanding the Effectiveness of Large Language Models on Directed Test Input Generation,IEEE Year: 2024
+ChatGPT vs SBST: A Comparative Assessment of Unit Test Suite Generation,IEEE Year: 2024
+RTLCoder: Fully Open-Source and Efficient LLM-Assisted RTL Code Generation Technique,IEEE Year: 2024
+Enhancing GPT-3.5's Proficiency in Netlogo Through Few-Shot Prompting and Retrieval-Augmented Generation,IEEE Year: 2024
+Empowering Hardware Security with LLM: The Development of a Vulnerable Hardware Database,IEEE Year: 2024
+Are Large Language Models Good Neural Architecture Generators for Edge?,IEEE Year: 2024
+"Evaluating the Performance of Large Language Models in Competitive Programming: A Multi-Year, Multi-Grade Analysis",IEEE Year: 2024
+LLM-Seg: Bridging Image Segmentation and Large Language Model Reasoning,IEEE Year: 2024
+"Survey of Different Large Language Model Architectures: Trends, Benchmarks, and Challenges",IEEE Year: 2024
+LogiCode: An LLM-Driven Framework for Logical Anomaly Detection,IEEE Year: 2024
+Reality Bites: Assessing the Realism of Driving Scenarios with Large Language Models,IEEE Year: 2024
+Advancing Multimodal Large Language Models in Chart Question Answering with Visualization-Referenced Instruction Tuning,IEEE Year: 2025
+Detection of AI-Generated Text Using Large Language Model,IEEE Year: 2024
+Evaluating Diverse Large Language Models for Automatic and General Bug Reproduction,IEEE Year: 2024
+Human Language to Analog Layout Using GLayout Layout Automation Framework,IEEE Year: 2024
+Exploring Parameter-Efficient Fine-Tuning of Large Language Model on Automated Program Repair,IEEE Year: 2024
+Understanding Open Source Large Language Models: An Exploratory Study,IEEE Year: 2024
+Federated Recommendation via Hybrid Retrieval Augmented Generation,IEEE Year: 2024
+Leveraging Large Language Models for Structure Learning in Prompted Weak Supervision,IEEE Year: 2023
+Large Language Models on Graphs: A Comprehensive Survey,IEEE Year: 2024
+Assessing GPT's Legal Knowledge in Japanese Real Estate Transactions Exam,IEEE Year: 2024
+Understanding Code Changes Practically with Small-Scale Language Models,IEEE Year: 2024
+Reality Bites: Assessing the Realism of Driving Scenarios with Large Language Models,IEEE Year: 2024
+Structured Extraction of Real World Medical Knowledge using LLMs for Summarization and Search,IEEE Year: 2024
+Understanding Code Changes Practically with Small-Scale Language Models,IEEE Year: 2024
+Reality Bites: Assessing the Realism of Driving Scenarios with Large Language Models,IEEE Year: 2024
+Structured Extraction of Real World Medical Knowledge using LLMs for Summarization and Search,IEEE Year: 2024
+Test-Driven Development and LLM-based Code Generation,IEEE Year: 2024
+LLM-Based Test-Driven Interactive Code Generation: User Study and Empirical Evaluation,IEEE Year: 2024
+FormalEval: A Method for Automatic Evaluation of Code Generation via Large Language Models,IEEE Year: 2024
+Fix the Tests: Augmenting LLMs to Repair Test Cases with Static Collector and Neural Reranker,IEEE Year: 2024
+User Centric Evaluation of Code Generation Tools (Invited Paper),IEEE Year: 2024
+ChatGPT vs SBST: A Comparative Assessment of Unit Test Suite Generation,IEEE Year: 2024
+Mutation-based Consistency Testing for Evaluating the Code Understanding Capability of LLMs,IEEE Year: 2024
+RGD: Multi-LLM Based Agent Debugger via Refinement and Generation Guidance,IEEE Year: 2024
+Towards Understanding the Effectiveness of Large Language Models on Directed Test Input Generation,IEEE Year: 2024
+CodeFuse-13B: A Pretrained Multi-Lingual Code Large Language Model,IEEE Year: 2024
+Rome was Not Built in a Single Step: Hierarchical Prompting for LLM-based Chip Design,IEEE Year: 2024
+Evaluating Diverse Large Language Models for Automatic and General Bug Reproduction,IEEE Year: 2024
+Test-Driven Development and LLM-based Code Generation,IEEE Year: 2024
+LLM-Based Test-Driven Interactive Code Generation: User Study and Empirical Evaluation,IEEE Year: 2024
+FormalEval: A Method for Automatic Evaluation of Code Generation via Large Language Models,IEEE Year: 2024
+Fix the Tests: Augmenting LLMs to Repair Test Cases with Static Collector and Neural Reranker,IEEE Year: 2024
+User Centric Evaluation of Code Generation Tools (Invited Paper),IEEE Year: 2024
+ChatGPT vs SBST: A Comparative Assessment of Unit Test Suite Generation,IEEE Year: 2024
+Mutation-based Consistency Testing for Evaluating the Code Understanding Capability of LLMs,IEEE Year: 2024
+RGD: Multi-LLM Based Agent Debugger via Refinement and Generation Guidance,IEEE Year: 2024
+Towards Understanding the Effectiveness of Large Language Models on Directed Test Input Generation,IEEE Year: 2024
+CodeFuse-13B: A Pretrained Multi-Lingual Code Large Language Model,IEEE Year: 2024
+Rome was Not Built in a Single Step: Hierarchical Prompting for LLM-based Chip Design,IEEE Year: 2024
+Evaluating Diverse Large Language Models for Automatic and General Bug Reproduction,IEEE Year: 2024
+Exploring Parameter-Efficient Fine-Tuning of Large Language Model on Automated Program Repair,IEEE Year: 2024
+Exploring Parameter-Efficient Fine-Tuning of Large Language Model on Automated Program Repair,IEEE Year: 2024
+Invited Paper: Software/Hardware Co-design for LLM and Its Application for Design Verification,IEEE Year: 2024
+eDKM: An Efficient and Accurate Train-Time Weight Clustering for Large Language Models,IEEE Year: 2024
+Automatic Data Transformation Using Large Language Model - An Experimental Study on Building Energy Data,IEEE Year: 2023
+Do Vision and Language Encoders Represent the World Similarly?,IEEE Year: 2024
+Invited Paper: Software/Hardware Co-design for LLM and Its Application for Design Verification,IEEE Year: 2024
+eDKM: An Efficient and Accurate Train-Time Weight Clustering for Large Language Models,IEEE Year: 2024
+Automatic Data Transformation Using Large Language Model - An Experimental Study on Building Energy Data,IEEE Year: 2023
+Do Vision and Language Encoders Represent the World Similarly?,IEEE Year: 2024
+Lost in Translation: A Study of Bugs Introduced by Large Language Models While Translating Code,IEEE Year: 2024
+A Fine-tuning Dataset and Benchmark for Large Language Models for Protein Understanding,IEEE Year: 2024
+CodeFuse-13B: A Pretrained Multi-Lingual Code Large Language Model,IEEE Year: 2024
+BVQA: Connecting Language and Vision Through Multimodal Attention for Open-Ended Question Answering,IEEE Year: 2025
+ChatGPT vs SBST: A Comparative Assessment of Unit Test Suite Generation,IEEE Year: 2024
+Exploring Parameter-Efficient Fine-Tuning of Large Language Model on Automated Program Repair,IEEE Year: 2024
+Structured Extraction of Real World Medical Knowledge using LLMs for Summarization and Search,IEEE Year: 2024
+"Survey of Different Large Language Model Architectures: Trends, Benchmarks, and Challenges",IEEE Year: 2024
+ChatGraph: Interpretable Text Classification by Converting ChatGPT Knowledge to Graphs,IEEE Year: 2023
+Lost in Translation: A Study of Bugs Introduced by Large Language Models While Translating Code,IEEE Year: 2024
+A Fine-tuning Dataset and Benchmark for Large Language Models for Protein Understanding,IEEE Year: 2024
+CodeFuse-13B: A Pretrained Multi-Lingual Code Large Language Model,IEEE Year: 2024
+BVQA: Connecting Language and Vision Through Multimodal Attention for Open-Ended Question Answering,IEEE Year: 2025
+ChatGPT vs SBST: A Comparative Assessment of Unit Test Suite Generation,IEEE Year: 2024
+Exploring Parameter-Efficient Fine-Tuning of Large Language Model on Automated Program Repair,IEEE Year: 2024
+Structured Extraction of Real World Medical Knowledge using LLMs for Summarization and Search,IEEE Year: 2024
+"Survey of Different Large Language Model Architectures: Trends, Benchmarks, and Challenges",IEEE Year: 2024
+ChatGraph: Interpretable Text Classification by Converting ChatGPT Knowledge to Graphs,IEEE Year: 2023
+Fix the Tests: Augmenting LLMs to Repair Test Cases with Static Collector and Neural Reranker,IEEE Year: 2024
+Exploring Parameter-Efficient Fine-Tuning of Large Language Model on Automated Program Repair,IEEE Year: 2024
+Fix the Tests: Augmenting LLMs to Repair Test Cases with Static Collector and Neural Reranker,IEEE Year: 2024
+Exploring Parameter-Efficient Fine-Tuning of Large Language Model on Automated Program Repair,IEEE Year: 2024
+Test-Driven Development and LLM-based Code Generation,IEEE Year: 2024
+Compositional API Recommendation for Library-Oriented Code Generation,IEEE Year: 2024
+Mutation-based Consistency Testing for Evaluating the Code Understanding Capability of LLMs,IEEE Year: 2024
+LogiCode: An LLM-Driven Framework for Logical Anomaly Detection,IEEE Year: 2024
+Test-Driven Development and LLM-based Code Generation,IEEE Year: 2024
+Compositional API Recommendation for Library-Oriented Code Generation,IEEE Year: 2024
+Mutation-based Consistency Testing for Evaluating the Code Understanding Capability of LLMs,IEEE Year: 2024
+LogiCode: An LLM-Driven Framework for Logical Anomaly Detection,IEEE Year: 2024
+Benchmarking Large Language Models for Ethereum Smart Contract Development,IEEE Year: 2024
+Test-Driven Development and LLM-based Code Generation,IEEE Year: 2024
+RTL-Repo: A Benchmark for Evaluating LLMs on Large-Scale RTL Design Projects,IEEE Year: 2024
+Fix the Tests: Augmenting LLMs to Repair Test Cases with Static Collector and Neural Reranker,IEEE Year: 2024
+ChatGPT vs SBST: A Comparative Assessment of Unit Test Suite Generation,IEEE Year: 2024
+"$\mathbf{A^{3}}$A3-CodGen: A Repository-Level Code Generation Framework for Code Reuse With Local-Aware, Global-Aware, and Third-Party-Library-Aware",IEEE Year: 2024
+Qiskit Code Assistant: Training LLMs for generating Quantum Computing Code,IEEE Year: 2024
+Compositional API Recommendation for Library-Oriented Code Generation,IEEE Year: 2024
+Mutation-based Consistency Testing for Evaluating the Code Understanding Capability of LLMs,IEEE Year: 2024
+CodeFuse-13B: A Pretrained Multi-Lingual Code Large Language Model,IEEE Year: 2024
+RGD: Multi-LLM Based Agent Debugger via Refinement and Generation Guidance,IEEE Year: 2024
+CyberMetric: A Benchmark Dataset based on Retrieval-Augmented Generation for Evaluating LLMs in Cybersecurity Knowledge,IEEE Year: 2024
+LLM-Based Test-Driven Interactive Code Generation: User Study and Empirical Evaluation,IEEE Year: 2024
+Benchmarking Large Language Models for Image Classification of Marine Mammals,IEEE Year: 2024
+Evaluating Diverse Large Language Models for Automatic and General Bug Reproduction,IEEE Year: 2024
+Empowering Hardware Security with LLM: The Development of a Vulnerable Hardware Database,IEEE Year: 2024
+Understanding Open Source Large Language Models: An Exploratory Study,IEEE Year: 2024
+DomainVoyager: Embracing The Unknown Domain by Prompting for Automatic Augmentation,IEEE Year: 2024
+Imperfect Code Generation: Uncovering Weaknesses in Automatic Code Generation by Large Language Models,IEEE Year: 2024
+User Centric Evaluation of Code Generation Tools (Invited Paper),IEEE Year: 2024
+Benchmarking Large Language Models for Ethereum Smart Contract Development,IEEE Year: 2024
+Test-Driven Development and LLM-based Code Generation,IEEE Year: 2024
+RTL-Repo: A Benchmark for Evaluating LLMs on Large-Scale RTL Design Projects,IEEE Year: 2024
+Fix the Tests: Augmenting LLMs to Repair Test Cases with Static Collector and Neural Reranker,IEEE Year: 2024
+ChatGPT vs SBST: A Comparative Assessment of Unit Test Suite Generation,IEEE Year: 2024
+"$\mathbf{A^{3}}$A3-CodGen: A Repository-Level Code Generation Framework for Code Reuse With Local-Aware, Global-Aware, and Third-Party-Library-Aware",IEEE Year: 2024
+Qiskit Code Assistant: Training LLMs for generating Quantum Computing Code,IEEE Year: 2024
+Compositional API Recommendation for Library-Oriented Code Generation,IEEE Year: 2024
+Mutation-based Consistency Testing for Evaluating the Code Understanding Capability of LLMs,IEEE Year: 2024
+CodeFuse-13B: A Pretrained Multi-Lingual Code Large Language Model,IEEE Year: 2024
+RGD: Multi-LLM Based Agent Debugger via Refinement and Generation Guidance,IEEE Year: 2024
+CyberMetric: A Benchmark Dataset based on Retrieval-Augmented Generation for Evaluating LLMs in Cybersecurity Knowledge,IEEE Year: 2024
+LLM-Based Test-Driven Interactive Code Generation: User Study and Empirical Evaluation,IEEE Year: 2024
+Benchmarking Large Language Models for Image Classification of Marine Mammals,IEEE Year: 2024
+Evaluating Diverse Large Language Models for Automatic and General Bug Reproduction,IEEE Year: 2024
+Empowering Hardware Security with LLM: The Development of a Vulnerable Hardware Database,IEEE Year: 2024
+Understanding Open Source Large Language Models: An Exploratory Study,IEEE Year: 2024
+DomainVoyager: Embracing The Unknown Domain by Prompting for Automatic Augmentation,IEEE Year: 2024
+Imperfect Code Generation: Uncovering Weaknesses in Automatic Code Generation by Large Language Models,IEEE Year: 2024
+User Centric Evaluation of Code Generation Tools (Invited Paper),IEEE Year: 2024
+Benchmarking Large Language Models for Ethereum Smart Contract Development,IEEE Year: 2024
+Test-Driven Development and LLM-based Code Generation,IEEE Year: 2024
+Fix the Tests: Augmenting LLMs to Repair Test Cases with Static Collector and Neural Reranker,IEEE Year: 2024
+RTL-Repo: A Benchmark for Evaluating LLMs on Large-Scale RTL Design Projects,IEEE Year: 2024
+Mutation-based Consistency Testing for Evaluating the Code Understanding Capability of LLMs,IEEE Year: 2024
+ChatGPT vs SBST: A Comparative Assessment of Unit Test Suite Generation,IEEE Year: 2024
+Exploring Parameter-Efficient Fine-Tuning of Large Language Model on Automated Program Repair,IEEE Year: 2024
+CodeFuse-13B: A Pretrained Multi-Lingual Code Large Language Model,IEEE Year: 2024
+Understanding Code Changes Practically with Small-Scale Language Models,IEEE Year: 2024
+Invited Paper: Software/Hardware Co-design for LLM and Its Application for Design Verification,IEEE Year: 2024
+"$\mathbf{A^{3}}$A3-CodGen: A Repository-Level Code Generation Framework for Code Reuse With Local-Aware, Global-Aware, and Third-Party-Library-Aware",IEEE Year: 2024
+CyberMetric: A Benchmark Dataset based on Retrieval-Augmented Generation for Evaluating LLMs in Cybersecurity Knowledge,IEEE Year: 2024
+Evaluating Diverse Large Language Models for Automatic and General Bug Reproduction,IEEE Year: 2024
+Towards Understanding the Effectiveness of Large Language Models on Directed Test Input Generation,IEEE Year: 2024
+High-precision Online Log Parsing with Large Language Models,IEEE Year: 2024
+Compositional API Recommendation for Library-Oriented Code Generation,IEEE Year: 2024
+LLM-Based Test-Driven Interactive Code Generation: User Study and Empirical Evaluation,IEEE Year: 2024
+RGD: Multi-LLM Based Agent Debugger via Refinement and Generation Guidance,IEEE Year: 2024
+Empowering Hardware Security with LLM: The Development of a Vulnerable Hardware Database,IEEE Year: 2024
+Adaptive Tidying Robots: Learning from Interaction and Observation,IEEE Year: 2025
+An Empirical Comparison of Code Generation Approaches for Ansible,IEEE Year: 2024
+Imperfect Code Generation: Uncovering Weaknesses in Automatic Code Generation by Large Language Models,IEEE Year: 2024
+Understanding Open Source Large Language Models: An Exploratory Study,IEEE Year: 2024
+LLM-Guided Cross-Modal Point Cloud Quality Assessment: A Graph Learning Approach,IEEE Year: 2024
+Reality Bites: Assessing the Realism of Driving Scenarios with Large Language Models,IEEE Year: 2024
+Benchmarking Large Language Models for Ethereum Smart Contract Development,IEEE Year: 2024
+Test-Driven Development and LLM-based Code Generation,IEEE Year: 2024
+Fix the Tests: Augmenting LLMs to Repair Test Cases with Static Collector and Neural Reranker,IEEE Year: 2024
+RTL-Repo: A Benchmark for Evaluating LLMs on Large-Scale RTL Design Projects,IEEE Year: 2024
+Mutation-based Consistency Testing for Evaluating the Code Understanding Capability of LLMs,IEEE Year: 2024
+ChatGPT vs SBST: A Comparative Assessment of Unit Test Suite Generation,IEEE Year: 2024
+Exploring Parameter-Efficient Fine-Tuning of Large Language Model on Automated Program Repair,IEEE Year: 2024
+CodeFuse-13B: A Pretrained Multi-Lingual Code Large Language Model,IEEE Year: 2024
+Understanding Code Changes Practically with Small-Scale Language Models,IEEE Year: 2024
+Invited Paper: Software/Hardware Co-design for LLM and Its Application for Design Verification,IEEE Year: 2024
+"$\mathbf{A^{3}}$A3-CodGen: A Repository-Level Code Generation Framework for Code Reuse With Local-Aware, Global-Aware, and Third-Party-Library-Aware",IEEE Year: 2024
+CyberMetric: A Benchmark Dataset based on Retrieval-Augmented Generation for Evaluating LLMs in Cybersecurity Knowledge,IEEE Year: 2024
+Evaluating Diverse Large Language Models for Automatic and General Bug Reproduction,IEEE Year: 2024
+Towards Understanding the Effectiveness of Large Language Models on Directed Test Input Generation,IEEE Year: 2024
+High-precision Online Log Parsing with Large Language Models,IEEE Year: 2024
+Compositional API Recommendation for Library-Oriented Code Generation,IEEE Year: 2024
+LLM-Based Test-Driven Interactive Code Generation: User Study and Empirical Evaluation,IEEE Year: 2024
+RGD: Multi-LLM Based Agent Debugger via Refinement and Generation Guidance,IEEE Year: 2024
+Empowering Hardware Security with LLM: The Development of a Vulnerable Hardware Database,IEEE Year: 2024
+Adaptive Tidying Robots: Learning from Interaction and Observation,IEEE Year: 2025
+An Empirical Comparison of Code Generation Approaches for Ansible,IEEE Year: 2024
+Imperfect Code Generation: Uncovering Weaknesses in Automatic Code Generation by Large Language Models,IEEE Year: 2024
+Understanding Open Source Large Language Models: An Exploratory Study,IEEE Year: 2024
+LLM-Guided Cross-Modal Point Cloud Quality Assessment: A Graph Learning Approach,IEEE Year: 2024
+Reality Bites: Assessing the Realism of Driving Scenarios with Large Language Models,IEEE Year: 2024
+DomainVoyager: Embracing The Unknown Domain by Prompting for Automatic Augmentation,IEEE Year: 2024
+SEARCHD - Advanced Retrieval with Text Generation using Large Language Models and Cross Encoding Re-ranking,IEEE Year: 2024
+Semantic Sleuth: Identifying Ponzi Contracts via Large Language Models,IEEE Year: 2024
+Product Helpfulness Detection With Novel Transformer Based BERT Embedding and Class Probability Features,IEEE Year: 2024
+User Centric Evaluation of Code Generation Tools (Invited Paper),IEEE Year: 2024
+Lost in Translation: A Study of Bugs Introduced by Large Language Models While Translating Code,IEEE Year: 2024
+Harnessing Large Language Models for Software Vulnerability Detection: A Comprehensive Benchmarking Study,IEEE Year: 2025
+Understanding Code Changes Practically with Small-Scale Language Models,IEEE Year: 2024
+Empowering Hardware Security with LLM: The Development of a Vulnerable Hardware Database,IEEE Year: 2024
+Large Language Models on Graphs: A Comprehensive Survey,IEEE Year: 2024
+Harnessing Large Language Models for Software Vulnerability Detection: A Comprehensive Benchmarking Study,IEEE Year: 2025
+Understanding Code Changes Practically with Small-Scale Language Models,IEEE Year: 2024
+Empowering Hardware Security with LLM: The Development of a Vulnerable Hardware Database,IEEE Year: 2024
+Large Language Models on Graphs: A Comprehensive Survey,IEEE Year: 2024
+RTL-Repo: A Benchmark for Evaluating LLMs on Large-Scale RTL Design Projects,IEEE Year: 2024
+FormalEval: A Method for Automatic Evaluation of Code Generation via Large Language Models,IEEE Year: 2024
+A Fine-tuning Dataset and Benchmark for Large Language Models for Protein Understanding,IEEE Year: 2024
+LLM - Based Code Generation for Querying Temporal Tabular Financial Data,IEEE Year: 2024
+"DataAgent: Evaluating Large Language Models’ Ability to Answer Zero-Shot, Natural Language Queries",IEEE Year: 2024
+The Fault in our Stars: Quality Assessment of Code Generation Benchmarks,IEEE Year: 2024
+Benchmarking Large Language Models for Ethereum Smart Contract Development,IEEE Year: 2024
+How Far Have We Gone in Binary Code Understanding Using Large Language Models,IEEE Year: 2024
+Are Large Language Models Good Neural Architecture Generators for Edge?,IEEE Year: 2024
+CodeLMSec Benchmark: Systematically Evaluating and Finding Security Vulnerabilities in Black-Box Code Language Models,IEEE Year: 2024
+Commit Message Generation via ChatGPT: How Far are We?,IEEE Year: 2024
+Qiskit Code Assistant: Training LLMs for generating Quantum Computing Code,IEEE Year: 2024
+Chain-of-Thought in Neural Code Generation: From and for Lightweight Language Models,IEEE Year: 2024
+AutoTest: Evolutionary Code Solution Selection with Test Cases,IEEE Year: 2024
+"Survey of Different Large Language Model Architectures: Trends, Benchmarks, and Challenges",IEEE Year: 2024
+Understanding Open Source Large Language Models: An Exploratory Study,IEEE Year: 2024
+Imperfect Code Generation: Uncovering Weaknesses in Automatic Code Generation by Large Language Models,IEEE Year: 2024
+SEED-Bench: Benchmarking Multimodal Large Language Models,IEEE Year: 2024
+e-ViL: A Dataset and Benchmark for Natural Language Explanations in Vision-Language Tasks,IEEE Year: 2021
+An Empirical Comparison of Code Generation Approaches for Ansible,IEEE Year: 2024
+CodeFuse-13B: A Pretrained Multi-Lingual Code Large Language Model,IEEE Year: 2024
+User Centric Evaluation of Code Generation Tools (Invited Paper),IEEE Year: 2024
+A Comprehensive Overview of Backdoor Attacks in Large Language Models Within Communication Networks,IEEE Year: 2024
+VisEval: A Benchmark for Data Visualization in the Era of Large Language Models,IEEE Year: 2025
+Qiskit HumanEval: An Evaluation Benchmark for Quantum Code Generative Models,IEEE Year: 2024
+RTL-Repo: A Benchmark for Evaluating LLMs on Large-Scale RTL Design Projects,IEEE Year: 2024
+FormalEval: A Method for Automatic Evaluation of Code Generation via Large Language Models,IEEE Year: 2024
+A Fine-tuning Dataset and Benchmark for Large Language Models for Protein Understanding,IEEE Year: 2024
+LLM - Based Code Generation for Querying Temporal Tabular Financial Data,IEEE Year: 2024
+"DataAgent: Evaluating Large Language Models’ Ability to Answer Zero-Shot, Natural Language Queries",IEEE Year: 2024
+The Fault in our Stars: Quality Assessment of Code Generation Benchmarks,IEEE Year: 2024
+Benchmarking Large Language Models for Ethereum Smart Contract Development,IEEE Year: 2024
+How Far Have We Gone in Binary Code Understanding Using Large Language Models,IEEE Year: 2024
+Are Large Language Models Good Neural Architecture Generators for Edge?,IEEE Year: 2024
+CodeLMSec Benchmark: Systematically Evaluating and Finding Security Vulnerabilities in Black-Box Code Language Models,IEEE Year: 2024
+Commit Message Generation via ChatGPT: How Far are We?,IEEE Year: 2024
+Qiskit Code Assistant: Training LLMs for generating Quantum Computing Code,IEEE Year: 2024
+Chain-of-Thought in Neural Code Generation: From and for Lightweight Language Models,IEEE Year: 2024
+AutoTest: Evolutionary Code Solution Selection with Test Cases,IEEE Year: 2024
+"Survey of Different Large Language Model Architectures: Trends, Benchmarks, and Challenges",IEEE Year: 2024
+Understanding Open Source Large Language Models: An Exploratory Study,IEEE Year: 2024
+Imperfect Code Generation: Uncovering Weaknesses in Automatic Code Generation by Large Language Models,IEEE Year: 2024
+SEED-Bench: Benchmarking Multimodal Large Language Models,IEEE Year: 2024
+e-ViL: A Dataset and Benchmark for Natural Language Explanations in Vision-Language Tasks,IEEE Year: 2021
+An Empirical Comparison of Code Generation Approaches for Ansible,IEEE Year: 2024
+CodeFuse-13B: A Pretrained Multi-Lingual Code Large Language Model,IEEE Year: 2024
+User Centric Evaluation of Code Generation Tools (Invited Paper),IEEE Year: 2024
+A Comprehensive Overview of Backdoor Attacks in Large Language Models Within Communication Networks,IEEE Year: 2024
+VisEval: A Benchmark for Data Visualization in the Era of Large Language Models,IEEE Year: 2025
+Qiskit HumanEval: An Evaluation Benchmark for Quantum Code Generative Models,IEEE Year: 2024
+Sallm: Security Assessment of Generated Code,IEEE Year: 2024
+Towards Evaluation and Understanding of Large Language Models for Cyber Operation Automation,IEEE Year: 2023
+Towards Efficient Fine-Tuning of Language Models With Organizational Data for Automated Software Review,IEEE Year: 2024
+RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and Lightweight Solution,IEEE Year: 2024
+Enhancing GPT-3.5's Proficiency in Netlogo Through Few-Shot Prompting and Retrieval-Augmented Generation,IEEE Year: 2024
+Visistant: A Conversational Chatbot for Natural Language to Visualizations With Gemini Large Language Models,IEEE Year: 2024
+Invited Paper: VerilogEval: Evaluating Large Language Models for Verilog Code Generation,IEEE Year: 2023
+Benchmarking Causal Study to Interpret Large Language Models for Source Code,IEEE Year: 2023
+Reality Bites: Assessing the Realism of Driving Scenarios with Large Language Models,IEEE Year: 2024
+Question Generation using Knowledge Graphs with the T5 Language Model and Masked Self-Attention,IEEE Year: 2021
+Towards Understanding the Effectiveness of Large Language Models on Directed Test Input Generation,IEEE Year: 2024
+"Evaluating the Performance of Large Language Models in Competitive Programming: A Multi-Year, Multi-Grade Analysis",IEEE Year: 2024
+ScenEval: A Benchmark for Scenario-Based Evaluation of Code Generation,IEEE Year: 2024
+Large Language Models on Graphs: A Comprehensive Survey,IEEE Year: 2024
+Advancing Multimodal Large Language Models in Chart Question Answering with Visualization-Referenced Instruction Tuning,IEEE Year: 2025
+Mutation-based Consistency Testing for Evaluating the Code Understanding Capability of LLMs,IEEE Year: 2024
+Evaluating Diverse Large Language Models for Automatic and General Bug Reproduction,IEEE Year: 2024
+Clickbait Detection in Telugu: Overcoming NLP Challenges in Resource-Poor Languages using Benchmarked Techniques,IEEE Year: 2021
+Exploring Parameter-Efficient Fine-Tuning of Large Language Model on Automated Program Repair,IEEE Year: 2024
+Code Generation Using Self-Interactive Assistant,IEEE Year: 2024
+Test-Driven Development and LLM-based Code Generation,IEEE Year: 2024
+Dynamic Intelligence Assessment: Benchmarking LLMs on the Road to AGI with a Focus on Model Confidence,IEEE Year: 2024
+Generating P4 Dataplanes Using LLMs,IEEE Year: 2024
+CommitBench: A Benchmark for Commit Message Generation,IEEE Year: 2024
+LISA: Reasoning Segmentation via Large Language Model,IEEE Year: 2024
+The Causal Reasoning Ability of Open Large Language Model: A Comprehensive and Exemplary Functional Testing,IEEE Year: 2023
+LLM-Based Test-Driven Interactive Code Generation: User Study and Empirical Evaluation,IEEE Year: 2024
+LaMPilot: An Open Benchmark Dataset for Autonomous Driving with Language Model Programs,IEEE Year: 2024
+RGD: Multi-LLM Based Agent Debugger via Refinement and Generation Guidance,IEEE Year: 2024
+Can a Llama Be a Watchdog? Exploring Llama 3 and Code Llama for Static Application Security Testing,IEEE Year: 2024
+Human Language to Analog Layout Using GLayout Layout Automation Framework,IEEE Year: 2024
+Compositional API Recommendation for Library-Oriented Code Generation,IEEE Year: 2024
+Fix the Tests: Augmenting LLMs to Repair Test Cases with Static Collector and Neural Reranker,IEEE Year: 2024
+LLM-Seg: Bridging Image Segmentation and Large Language Model Reasoning,IEEE Year: 2024
+Leveraging Large Language Models for Structure Learning in Prompted Weak Supervision,IEEE Year: 2023
+ConCon-Chi: Concept-Context Chimera Benchmark for Personalized Vision-Language Tasks,IEEE Year: 2024
+Benchmarking Large Language Models for Automated Verilog RTL Code Generation,IEEE Year: 2023
+Unsupervised Abstractive Text Summarization with Length Controlled Autoencoder,IEEE Year: 2022
+ChatGPT vs SBST: A Comparative Assessment of Unit Test Suite Generation,IEEE Year: 2024
+Question Generation: An Experimental Study for Vietnamese Text,IEEE Year: 2023
+VideoLLM-online: Online Video Large Language Model for Streaming Video,IEEE Year: 2024
+Detection of AI-Generated Text Using Large Language Model,IEEE Year: 2024
+Cross-Modal Language Modeling in Multi-Motion-Informed Context for Lip Reading,IEEE Year: 2023
+Gamma: Revisiting Template-Based Automated Program Repair Via Mask Prediction,IEEE Year: 2023
+Visually-Prompted Language Model for Fine-Grained Scene Graph Generation in an Open World,IEEE Year: 2023
+Empowering Hardware Security with LLM: The Development of a Vulnerable Hardware Database,IEEE Year: 2024
+Re(gEx|DoS)Eval: Evaluating Generated Regular Expressions and their Proneness to DoS Attacks,IEEE Year: 2024
+Neural Network Approach to Program Synthesis for Tabular Transformation by Example,IEEE Year: 2022
+ChatICD: Prompt Learning for Few-shot ICD Coding through ChatGPT,IEEE Year: 2023
+"Uncovering what, why and How: A Comprehensive Benchmark for Causation Understanding of Video Anomaly",IEEE Year: 2024
+MAGVLT: Masked Generative Vision-and-Language Transformer,IEEE Year: 2023
+Enhancing Multimodal Compositional Reasoning of Visual Language Models with Generative Negative Mining,IEEE Year: 2024
+Unified Pre-training with Pseudo Texts for Text-To-Image Person Re-identification,IEEE Year: 2023
+An Iteratively-refined Dataset for High-Level Synthesis Functional Verification through LLM-Aided Bug Injection,IEEE Year: 2024
+From Show to Tell: A Survey on Deep Learning-Based Image Captioning,IEEE Year: 2023
+Nl2Fix: Generating Functionally Correct Code Edits from Bug Descriptions,IEEE Year: 2024
+InViG: Benchmarking Open-Ended Interactive Visual Grounding with 500K Dialogues,IEEE Year: 2024
+Revisiting Binary Code Similarity Analysis Using Interpretable Feature Engineering and Lessons Learned,IEEE Year: 2023
+Federated Recommendation via Hybrid Retrieval Augmented Generation,IEEE Year: 2024
+Fusing Pre-Trained Language Models with Multimodal Prompts through Reinforcement Learning,IEEE Year: 2023
+VL-ADAPTER: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks,IEEE Year: 2022
+Automatic Commit Message Generation: A Critical Review and Directions for Future Work,IEEE Year: 2024
+RTLCoder: Fully Open-Source and Efficient LLM-Assisted RTL Code Generation Technique,IEEE Year: 2024
+HLSFactory: A Framework Empowering High-Level Synthesis Datasets for Machine Learning and Beyond,IEEE Year: 2024
+Monkey: Image Resolution and Text Label are Important Things for Large Multi-Modal Models,IEEE Year: 2024
+Investigating Compositional Challenges in Vision-Language Models for Visual Grounding,IEEE Year: 2024
+Learning Vision-and-Language Navigation from YouTube Videos,IEEE Year: 2023
+CoSeR: Bridging Image and Language for Cognitive Super-Resolution,IEEE Year: 2024
+Tell Me How to Survey: Literature Review Made Simple with Automatic Reading Path Generation,IEEE Year: 2022
+Discriminative Probing and Tuning for Text-to-Image Generation,IEEE Year: 2024
+Rome was Not Built in a Single Step: Hierarchical Prompting for LLM-based Chip Design,IEEE Year: 2024
+Refining GPT-3 Embeddings with a Siamese Structure for Technical Post Duplicate Detection,IEEE Year: 2024
+LogiCode: An LLM-Driven Framework for Logical Anomaly Detection,IEEE Year: 2024
+Invited Paper: Towards the Imagenets of ML4EDA,IEEE Year: 2023
+HM3D-OVON: A Dataset and Benchmark for Open-Vocabulary Object Goal Navigation,IEEE Year: 2024
+LSBert: Lexical Simplification Based on BERT,IEEE Year: 2021
+Fine-Grained Predicates Learning for Scene Graph Generation,IEEE Year: 2022
+ChangeMamba: Remote Sensing Change Detection With Spatiotemporal State Space Model,IEEE Year: 2024
+ULIP-2: Towards Scalable Multimodal Pre-Training for 3D Understanding,IEEE Year: 2024
+The Devil is in the Fine-Grained Details: Evaluating open-Vocabulary Object Detectors for Fine-Grained Understanding,IEEE Year: 2024
+HalluciDoctor: Mitigating Hallucinatory Toxicity in Visual Instruction Data,IEEE Year: 2024
+"OMNIPARSER: A Unified Framework for Text Spotting, Key Information Extraction and Table Recognition",IEEE Year: 2024
+ReqCompletion: Domain-Enhanced Automatic Completion for Software Requirements,IEEE Year: 2024
+A Masked Reference Token Supervision-Based Iterative Visual-Language Framework for Robust Visual Grounding,IEEE Year: 2025
+Assessing GPT's Legal Knowledge in Japanese Real Estate Transactions Exam,IEEE Year: 2024
+Speech Command Recognition: Text-to-Speech and Speech Corpus Scraping Are All You Need,IEEE Year: 2023
+Learning Transferable Spatiotemporal Representations from Natural Script Knowledge,IEEE Year: 2023
+RLIPv2: Fast Scaling of Relational Language-Image Pre-training,IEEE Year: 2023
+Cross-Modal Remote Sensing Image–Text Retrieval via Context and Uncertainty-Aware Prompt,IEEE Year: 2024
+Improving Video Moment Retrieval by Auxiliary Moment-Query Pairs with Hyper-Interaction,IEEE Year: 2024
+Knowledge Graph Reasoning with Self-supervised Reinforcement Learning,IEEE Year: 2025
+How Effectively Do Code Language Models Understand Poor-Readability Code?,IEEE Year: 2024
+How Far Have We Gone in Binary Code Understanding Using Large Language Models,IEEE Year: 2024
+A Comprehensive Overview of Backdoor Attacks in Large Language Models Within Communication Networks,IEEE Year: 2024
+Unsupervised Abstractive Text Summarization with Length Controlled Autoencoder,IEEE Year: 2022
+GAE-ISUMM: Unsupervised Graph-based Summarization for Indian Languages,IEEE Year: 2023
+Reality Bites: Assessing the Realism of Driving Scenarios with Large Language Models,IEEE Year: 2024
+Towards Efficient Fine-Tuning of Language Models With Organizational Data for Automated Software Review,IEEE Year: 2024
+Benchmarking Causal Study to Interpret Large Language Models for Source Code,IEEE Year: 2023
+Understanding Code Changes Practically with Small-Scale Language Models,IEEE Year: 2024
+Structured Extraction of Real World Medical Knowledge using LLMs for Summarization and Search,IEEE Year: 2024
+Enhancing Bug Report Summaries Through Knowledge-Specific and Contrastive Learning Pre-Training,IEEE Year: 2024
+Hierarchical Video-Moment Retrieval and Step-Captioning,IEEE Year: 2023
+An Empirical Study on Noisy Label Learning for Program Understanding,IEEE Year: 2024
+CoEvo-Net: Coevolution Network for Video Highlight Detection,IEEE Year: 2022
+How Effectively Do Code Language Models Understand Poor-Readability Code?,IEEE Year: 2024
+How Far Have We Gone in Binary Code Understanding Using Large Language Models,IEEE Year: 2024
+A Comprehensive Overview of Backdoor Attacks in Large Language Models Within Communication Networks,IEEE Year: 2024
+Unsupervised Abstractive Text Summarization with Length Controlled Autoencoder,IEEE Year: 2022
+GAE-ISUMM: Unsupervised Graph-based Summarization for Indian Languages,IEEE Year: 2023
+Reality Bites: Assessing the Realism of Driving Scenarios with Large Language Models,IEEE Year: 2024
+Towards Efficient Fine-Tuning of Language Models With Organizational Data for Automated Software Review,IEEE Year: 2024
+Benchmarking Causal Study to Interpret Large Language Models for Source Code,IEEE Year: 2023
+Understanding Code Changes Practically with Small-Scale Language Models,IEEE Year: 2024
+Structured Extraction of Real World Medical Knowledge using LLMs for Summarization and Search,IEEE Year: 2024
+Enhancing Bug Report Summaries Through Knowledge-Specific and Contrastive Learning Pre-Training,IEEE Year: 2024
+Hierarchical Video-Moment Retrieval and Step-Captioning,IEEE Year: 2023
+An Empirical Study on Noisy Label Learning for Program Understanding,IEEE Year: 2024
+CoEvo-Net: Coevolution Network for Video Highlight Detection,IEEE Year: 2022
+AutoTest: Evolutionary Code Solution Selection with Test Cases,IEEE Year: 2024
+FormalEval: A Method for Automatic Evaluation of Code Generation via Large Language Models,IEEE Year: 2024
+ScenEval: A Benchmark for Scenario-Based Evaluation of Code Generation,IEEE Year: 2024
+Test-Driven Development and LLM-based Code Generation,IEEE Year: 2024
+User Centric Evaluation of Code Generation Tools (Invited Paper),IEEE Year: 2024
+CodeFuse-13B: A Pretrained Multi-Lingual Code Large Language Model,IEEE Year: 2024
+Towards Understanding the Effectiveness of Large Language Models on Directed Test Input Generation,IEEE Year: 2024
+Mutation-based Consistency Testing for Evaluating the Code Understanding Capability of LLMs,IEEE Year: 2024
+The Causal Reasoning Ability of Open Large Language Model: A Comprehensive and Exemplary Functional Testing,IEEE Year: 2023
+Qiskit HumanEval: An Evaluation Benchmark for Quantum Code Generative Models,IEEE Year: 2024
+Fix the Tests: Augmenting LLMs to Repair Test Cases with Static Collector and Neural Reranker,IEEE Year: 2024
+LLM-Based Test-Driven Interactive Code Generation: User Study and Empirical Evaluation,IEEE Year: 2024
+Evaluating Diverse Large Language Models for Automatic and General Bug Reproduction,IEEE Year: 2024
+ChatGPT vs SBST: A Comparative Assessment of Unit Test Suite Generation,IEEE Year: 2024
+Clickbait Detection in Telugu: Overcoming NLP Challenges in Resource-Poor Languages using Benchmarked Techniques,IEEE Year: 2021
+LISA: Reasoning Segmentation via Large Language Model,IEEE Year: 2024
+RGD: Multi-LLM Based Agent Debugger via Refinement and Generation Guidance,IEEE Year: 2024
+Rome was Not Built in a Single Step: Hierarchical Prompting for LLM-based Chip Design,IEEE Year: 2024
+HLSFactory: A Framework Empowering High-Level Synthesis Datasets for Machine Learning and Beyond,IEEE Year: 2024
+AutoTest: Evolutionary Code Solution Selection with Test Cases,IEEE Year: 2024
+FormalEval: A Method for Automatic Evaluation of Code Generation via Large Language Models,IEEE Year: 2024
+ScenEval: A Benchmark for Scenario-Based Evaluation of Code Generation,IEEE Year: 2024
+Test-Driven Development and LLM-based Code Generation,IEEE Year: 2024
+User Centric Evaluation of Code Generation Tools (Invited Paper),IEEE Year: 2024
+CodeFuse-13B: A Pretrained Multi-Lingual Code Large Language Model,IEEE Year: 2024
+Towards Understanding the Effectiveness of Large Language Models on Directed Test Input Generation,IEEE Year: 2024
+Mutation-based Consistency Testing for Evaluating the Code Understanding Capability of LLMs,IEEE Year: 2024
+The Causal Reasoning Ability of Open Large Language Model: A Comprehensive and Exemplary Functional Testing,IEEE Year: 2023
+Qiskit HumanEval: An Evaluation Benchmark for Quantum Code Generative Models,IEEE Year: 2024
+Fix the Tests: Augmenting LLMs to Repair Test Cases with Static Collector and Neural Reranker,IEEE Year: 2024
+LLM-Based Test-Driven Interactive Code Generation: User Study and Empirical Evaluation,IEEE Year: 2024
+Evaluating Diverse Large Language Models for Automatic and General Bug Reproduction,IEEE Year: 2024
+ChatGPT vs SBST: A Comparative Assessment of Unit Test Suite Generation,IEEE Year: 2024
+Clickbait Detection in Telugu: Overcoming NLP Challenges in Resource-Poor Languages using Benchmarked Techniques,IEEE Year: 2021
+LISA: Reasoning Segmentation via Large Language Model,IEEE Year: 2024
+RGD: Multi-LLM Based Agent Debugger via Refinement and Generation Guidance,IEEE Year: 2024
+Rome was Not Built in a Single Step: Hierarchical Prompting for LLM-based Chip Design,IEEE Year: 2024
+HLSFactory: A Framework Empowering High-Level Synthesis Datasets for Machine Learning and Beyond,IEEE Year: 2024
+How Far Have We Gone in Binary Code Understanding Using Large Language Models,IEEE Year: 2024
+Exploring Parameter-Efficient Fine-Tuning of Large Language Model on Automated Program Repair,IEEE Year: 2024
+"Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action",IEEE Year: 2024
+"Uncovering what, why and How: A Comprehensive Benchmark for Causation Understanding of Video Anomaly",IEEE Year: 2024
+Exploring Vision Transformers for 3D Human Motion-Language Models with Motion Patches,IEEE Year: 2024
+Gamma: Revisiting Template-Based Automated Program Repair Via Mask Prediction,IEEE Year: 2023
+Monkey: Image Resolution and Text Label are Important Things for Large Multi-Modal Models,IEEE Year: 2024
+How Far Have We Gone in Binary Code Understanding Using Large Language Models,IEEE Year: 2024
+Exploring Parameter-Efficient Fine-Tuning of Large Language Model on Automated Program Repair,IEEE Year: 2024
+"Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action",IEEE Year: 2024
+"Uncovering what, why and How: A Comprehensive Benchmark for Causation Understanding of Video Anomaly",IEEE Year: 2024
+Exploring Vision Transformers for 3D Human Motion-Language Models with Motion Patches,IEEE Year: 2024
+Gamma: Revisiting Template-Based Automated Program Repair Via Mask Prediction,IEEE Year: 2023
+Monkey: Image Resolution and Text Label are Important Things for Large Multi-Modal Models,IEEE Year: 2024
+"DataAgent: Evaluating Large Language Models’ Ability to Answer Zero-Shot, Natural Language Queries",IEEE Year: 2024
+Large Language Model-assisted Surrogate Modelling for Engineering Optimization,IEEE Year: 2024
+Towards Efficient Fine-Tuning of Language Models With Organizational Data for Automated Software Review,IEEE Year: 2024
+Supersonic: Learning to Generate Source Code Optimizations in C/C++,IEEE Year: 2024
+SC- Tune: Unleashing Self-Consistent Referential Comprehension in Large Vision Language Models,IEEE Year: 2024
+Automatic Data Transformation Using Large Language Model - An Experimental Study on Building Energy Data,IEEE Year: 2023
+eDKM: An Efficient and Accurate Train-Time Weight Clustering for Large Language Models,IEEE Year: 2024
+Invited Paper: Software/Hardware Co-design for LLM and Its Application for Design Verification,IEEE Year: 2024
+OPTango: Multi-central Representation Learning against Innumerable Compiler Optimization for Binary Diffing,IEEE Year: 2023
+HLSFactory: A Framework Empowering High-Level Synthesis Datasets for Machine Learning and Beyond,IEEE Year: 2024
+Fusing Pre-Trained Language Models with Multimodal Prompts through Reinforcement Learning,IEEE Year: 2023
+DependLoc: A Dependency-based Framework For Bug Localization,IEEE Year: 2020
+Grounding Everything: Emerging Localization Properties in Vision-Language Transformers,IEEE Year: 2024
+Modeling of Blockchain Assisted Intrusion Detection on IoT Healthcare System Using Ant Lion Optimizer With Hybrid Deep Learning,IEEE Year: 2023
+Multi-Modal Proxy Learning Towards Personalized Visual Multiple Clustering,IEEE Year: 2024
+Tell Me How to Survey: Literature Review Made Simple with Automatic Reading Path Generation,IEEE Year: 2022
+Cross-Modal Remote Sensing Image–Text Retrieval via Context and Uncertainty-Aware Prompt,IEEE Year: 2024
+"DataAgent: Evaluating Large Language Models’ Ability to Answer Zero-Shot, Natural Language Queries",IEEE Year: 2024
+Large Language Model-assisted Surrogate Modelling for Engineering Optimization,IEEE Year: 2024
+Towards Efficient Fine-Tuning of Language Models With Organizational Data for Automated Software Review,IEEE Year: 2024
+Supersonic: Learning to Generate Source Code Optimizations in C/C++,IEEE Year: 2024
+SC- Tune: Unleashing Self-Consistent Referential Comprehension in Large Vision Language Models,IEEE Year: 2024
+Automatic Data Transformation Using Large Language Model - An Experimental Study on Building Energy Data,IEEE Year: 2023
+eDKM: An Efficient and Accurate Train-Time Weight Clustering for Large Language Models,IEEE Year: 2024
+Invited Paper: Software/Hardware Co-design for LLM and Its Application for Design Verification,IEEE Year: 2024
+OPTango: Multi-central Representation Learning against Innumerable Compiler Optimization for Binary Diffing,IEEE Year: 2023
+HLSFactory: A Framework Empowering High-Level Synthesis Datasets for Machine Learning and Beyond,IEEE Year: 2024
+Fusing Pre-Trained Language Models with Multimodal Prompts through Reinforcement Learning,IEEE Year: 2023
+DependLoc: A Dependency-based Framework For Bug Localization,IEEE Year: 2020
+Grounding Everything: Emerging Localization Properties in Vision-Language Transformers,IEEE Year: 2024
+Modeling of Blockchain Assisted Intrusion Detection on IoT Healthcare System Using Ant Lion Optimizer With Hybrid Deep Learning,IEEE Year: 2023
+Multi-Modal Proxy Learning Towards Personalized Visual Multiple Clustering,IEEE Year: 2024
+Tell Me How to Survey: Literature Review Made Simple with Automatic Reading Path Generation,IEEE Year: 2022
+Cross-Modal Remote Sensing Image–Text Retrieval via Context and Uncertainty-Aware Prompt,IEEE Year: 2024
+A Fine-tuning Dataset and Benchmark for Large Language Models for Protein Understanding,IEEE Year: 2024
+Creating a Dataset for High-Performance Computing Code Translation using LLMs: A Bridge Between OpenMP Fortran and C++,IEEE Year: 2023
+How Effectively Do Code Language Models Understand Poor-Readability Code?,IEEE Year: 2024
+Self-supervised Language Identification ASR models for Low Resource Indic Languages,IEEE Year: 2023
+An Empirical Study on Fine-Tuning Large Language Models of Code for Automated Program Repair,IEEE Year: 2023
+Lost in Translation: A Study of Bugs Introduced by Large Language Models While Translating Code,IEEE Year: 2024
+"Survey of Different Large Language Model Architectures: Trends, Benchmarks, and Challenges",IEEE Year: 2024
+CodeFuse-13B: A Pretrained Multi-Lingual Code Large Language Model,IEEE Year: 2024
+A Comprehensive Overview of Backdoor Attacks in Large Language Models Within Communication Networks,IEEE Year: 2024
+BVQA: Connecting Language and Vision Through Multimodal Attention for Open-Ended Question Answering,IEEE Year: 2025
+Exploring Parameter-Efficient Fine-Tuning of Large Language Model on Automated Program Repair,IEEE Year: 2024
+CommitBench: A Benchmark for Commit Message Generation,IEEE Year: 2024
+Structured Extraction of Real World Medical Knowledge using LLMs for Summarization and Search,IEEE Year: 2024
+Sign Language Translation from Instructional Videos,IEEE Year: 2023
+Gamma: Revisiting Template-Based Automated Program Repair Via Mask Prediction,IEEE Year: 2023
+Cross-Modal Language Modeling in Multi-Motion-Informed Context for Lip Reading,IEEE Year: 2023
+ChatGPT vs SBST: A Comparative Assessment of Unit Test Suite Generation,IEEE Year: 2024
+Pro-Attention: Efficient Probability Distribution Matching-Based Attention Through Feature Space Conversion,IEEE Year: 2022
+Automatic Commit Message Generation: A Critical Review and Directions for Future Work,IEEE Year: 2024
+Zero-Shot Cross-Lingual Knowledge Transfer in VQA via Multimodal Distillation,IEEE Year: 2024
+ChatGraph: Interpretable Text Classification by Converting ChatGPT Knowledge to Graphs,IEEE Year: 2023
+Improving Aspect Sentiment Classification via Retrieving from Training Data,IEEE Year: 2023
+A Fine-tuning Dataset and Benchmark for Large Language Models for Protein Understanding,IEEE Year: 2024
+Creating a Dataset for High-Performance Computing Code Translation using LLMs: A Bridge Between OpenMP Fortran and C++,IEEE Year: 2023
+How Effectively Do Code Language Models Understand Poor-Readability Code?,IEEE Year: 2024
+Self-supervised Language Identification ASR models for Low Resource Indic Languages,IEEE Year: 2023
+An Empirical Study on Fine-Tuning Large Language Models of Code for Automated Program Repair,IEEE Year: 2023
+Lost in Translation: A Study of Bugs Introduced by Large Language Models While Translating Code,IEEE Year: 2024
+"Survey of Different Large Language Model Architectures: Trends, Benchmarks, and Challenges",IEEE Year: 2024
+CodeFuse-13B: A Pretrained Multi-Lingual Code Large Language Model,IEEE Year: 2024
+A Comprehensive Overview of Backdoor Attacks in Large Language Models Within Communication Networks,IEEE Year: 2024
+BVQA: Connecting Language and Vision Through Multimodal Attention for Open-Ended Question Answering,IEEE Year: 2025
+Exploring Parameter-Efficient Fine-Tuning of Large Language Model on Automated Program Repair,IEEE Year: 2024
+CommitBench: A Benchmark for Commit Message Generation,IEEE Year: 2024
+Structured Extraction of Real World Medical Knowledge using LLMs for Summarization and Search,IEEE Year: 2024
+Sign Language Translation from Instructional Videos,IEEE Year: 2023
+Gamma: Revisiting Template-Based Automated Program Repair Via Mask Prediction,IEEE Year: 2023
+Cross-Modal Language Modeling in Multi-Motion-Informed Context for Lip Reading,IEEE Year: 2023
+ChatGPT vs SBST: A Comparative Assessment of Unit Test Suite Generation,IEEE Year: 2024
+Pro-Attention: Efficient Probability Distribution Matching-Based Attention Through Feature Space Conversion,IEEE Year: 2022
+Automatic Commit Message Generation: A Critical Review and Directions for Future Work,IEEE Year: 2024
+Zero-Shot Cross-Lingual Knowledge Transfer in VQA via Multimodal Distillation,IEEE Year: 2024
+ChatGraph: Interpretable Text Classification by Converting ChatGPT Knowledge to Graphs,IEEE Year: 2023
+Improving Aspect Sentiment Classification via Retrieving from Training Data,IEEE Year: 2023
+An Empirical Study on Fine-Tuning Large Language Models of Code for Automated Program Repair,IEEE Year: 2023
+Exploring Parameter-Efficient Fine-Tuning of Large Language Model on Automated Program Repair,IEEE Year: 2024
+Impact of Code Language Models on Automated Program Repair,IEEE Year: 2023
+Gamma: Revisiting Template-Based Automated Program Repair Via Mask Prediction,IEEE Year: 2023
+FixEval: Execution-based Evaluation of Program Fixes for Programming Problems,IEEE Year: 2023
+Fix the Tests: Augmenting LLMs to Repair Test Cases with Static Collector and Neural Reranker,IEEE Year: 2024
+Out of Context: How Important is Local Context in Neural Program Repair?,IEEE Year: 2024
+"PyBugHive: A Comprehensive Database of Manually Validated, Reproducible Python Bugs",IEEE Year: 2024
+DRMiner: Extracting Latent Design Rationale from Jira Issue Logs,IEEE Year: 2024
+An Empirical Study on Fine-Tuning Large Language Models of Code for Automated Program Repair,IEEE Year: 2023
+Exploring Parameter-Efficient Fine-Tuning of Large Language Model on Automated Program Repair,IEEE Year: 2024
+Impact of Code Language Models on Automated Program Repair,IEEE Year: 2023
+Gamma: Revisiting Template-Based Automated Program Repair Via Mask Prediction,IEEE Year: 2023
+FixEval: Execution-based Evaluation of Program Fixes for Programming Problems,IEEE Year: 2023
+Fix the Tests: Augmenting LLMs to Repair Test Cases with Static Collector and Neural Reranker,IEEE Year: 2024
+Out of Context: How Important is Local Context in Neural Program Repair?,IEEE Year: 2024
+"PyBugHive: A Comprehensive Database of Manually Validated, Reproducible Python Bugs",IEEE Year: 2024
+DRMiner: Extracting Latent Design Rationale from Jira Issue Logs,IEEE Year: 2024
+Automated Test Case Generation for Satellite FRD Using NLP and Large Language Model,IEEE Year: 2024
+A Comprehensive Overview of Backdoor Attacks in Large Language Models Within Communication Networks,IEEE Year: 2024
+Mutation-based Consistency Testing for Evaluating the Code Understanding Capability of LLMs,IEEE Year: 2024
+Code Generation Using Self-Interactive Assistant,IEEE Year: 2024
+Compositional API Recommendation for Library-Oriented Code Generation,IEEE Year: 2024
+Test-Driven Development and LLM-based Code Generation,IEEE Year: 2024
+ReqCompletion: Domain-Enhanced Automatic Completion for Software Requirements,IEEE Year: 2024
+Elevating Video Retrieval Capabilities: A Cross-Modal Approach Utilizing Text and Image Generative Models,IEEE Year: 2024
+Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts,IEEE Year: 2021
+LogiCode: An LLM-Driven Framework for Logical Anomaly Detection,IEEE Year: 2024
+Step Differences in Instructional Video,IEEE Year: 2024
+CLAIM: An Enhanced Machine Learning Technique for Discrepancy Report Analysis,IEEE Year: 2020
+Automated Test Case Generation for Satellite FRD Using NLP and Large Language Model,IEEE Year: 2024
+A Comprehensive Overview of Backdoor Attacks in Large Language Models Within Communication Networks,IEEE Year: 2024
+Mutation-based Consistency Testing for Evaluating the Code Understanding Capability of LLMs,IEEE Year: 2024
+Code Generation Using Self-Interactive Assistant,IEEE Year: 2024
+Compositional API Recommendation for Library-Oriented Code Generation,IEEE Year: 2024
+Test-Driven Development and LLM-based Code Generation,IEEE Year: 2024
+ReqCompletion: Domain-Enhanced Automatic Completion for Software Requirements,IEEE Year: 2024
+Elevating Video Retrieval Capabilities: A Cross-Modal Approach Utilizing Text and Image Generative Models,IEEE Year: 2024
+Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts,IEEE Year: 2021
+LogiCode: An LLM-Driven Framework for Logical Anomaly Detection,IEEE Year: 2024
+Step Differences in Instructional Video,IEEE Year: 2024
+CLAIM: An Enhanced Machine Learning Technique for Discrepancy Report Analysis,IEEE Year: 2020
+Benchmarking Large Language Models for Ethereum Smart Contract Development,IEEE Year: 2024
+RTL-Repo: A Benchmark for Evaluating LLMs on Large-Scale RTL Design Projects,IEEE Year: 2024
+Understanding Open Source Large Language Models: An Exploratory Study,IEEE Year: 2024
+"Data Generation, Testing and Evaluation of Chinese Natural Language Processing in the Cloud",IEEE Year: 2022
+Qiskit HumanEval: An Evaluation Benchmark for Quantum Code Generative Models,IEEE Year: 2024
+The Causal Reasoning Ability of Open Large Language Model: A Comprehensive and Exemplary Functional Testing,IEEE Year: 2023
+CodeFuse-13B: A Pretrained Multi-Lingual Code Large Language Model,IEEE Year: 2024
+Benchmarking Large Language Models for Image Classification of Marine Mammals,IEEE Year: 2024
+Fix the Tests: Augmenting LLMs to Repair Test Cases with Static Collector and Neural Reranker,IEEE Year: 2024
+On the Use of Deep Learning Models for Semantic Clone Detection,IEEE Year: 2024
+Evaluating Diverse Large Language Models for Automatic and General Bug Reproduction,IEEE Year: 2024
+Qiskit Code Assistant: Training LLMs for generating Quantum Computing Code,IEEE Year: 2024
+Automatic Parallelization with CodeT5+: A Model for Generating OpenMP Directives,IEEE Year: 2024
+Learning Autocompletion from Real-World Datasets,IEEE Year: 2021
+Test-Driven Development and LLM-based Code Generation,IEEE Year: 2024
+The Fault in our Stars: Quality Assessment of Code Generation Benchmarks,IEEE Year: 2024
+Mutation-based Consistency Testing for Evaluating the Code Understanding Capability of LLMs,IEEE Year: 2024
+Thai Question Text-To-SQL Parsing Using Transformer,IEEE Year: 2024
+"Mitigating False Positive Static Analysis Warnings: Progress, Challenges, and Opportunities",IEEE Year: 2023
+Gamma: Revisiting Template-Based Automated Program Repair Via Mask Prediction,IEEE Year: 2023
+ChatGPT vs SBST: A Comparative Assessment of Unit Test Suite Generation,IEEE Year: 2024
+Automatic Issue Classifier: A Transfer Learning Framework for Classifying Issue Reports,IEEE Year: 2021
+Emotion Recognition on StackOverflow Posts Using BERT,IEEE Year: 2022
+Imperfect Code Generation: Uncovering Weaknesses in Automatic Code Generation by Large Language Models,IEEE Year: 2024
+User Centric Evaluation of Code Generation Tools (Invited Paper),IEEE Year: 2024
+Benchmarking Large Language Models for Ethereum Smart Contract Development,IEEE Year: 2024
+RTL-Repo: A Benchmark for Evaluating LLMs on Large-Scale RTL Design Projects,IEEE Year: 2024
+Understanding Open Source Large Language Models: An Exploratory Study,IEEE Year: 2024
+"Data Generation, Testing and Evaluation of Chinese Natural Language Processing in the Cloud",IEEE Year: 2022
+Qiskit HumanEval: An Evaluation Benchmark for Quantum Code Generative Models,IEEE Year: 2024
+The Causal Reasoning Ability of Open Large Language Model: A Comprehensive and Exemplary Functional Testing,IEEE Year: 2023
+CodeFuse-13B: A Pretrained Multi-Lingual Code Large Language Model,IEEE Year: 2024
+Benchmarking Large Language Models for Image Classification of Marine Mammals,IEEE Year: 2024
+Fix the Tests: Augmenting LLMs to Repair Test Cases with Static Collector and Neural Reranker,IEEE Year: 2024
+On the Use of Deep Learning Models for Semantic Clone Detection,IEEE Year: 2024
+Evaluating Diverse Large Language Models for Automatic and General Bug Reproduction,IEEE Year: 2024
+Qiskit Code Assistant: Training LLMs for generating Quantum Computing Code,IEEE Year: 2024
+Automatic Parallelization with CodeT5+: A Model for Generating OpenMP Directives,IEEE Year: 2024
+Learning Autocompletion from Real-World Datasets,IEEE Year: 2021
+Test-Driven Development and LLM-based Code Generation,IEEE Year: 2024
+The Fault in our Stars: Quality Assessment of Code Generation Benchmarks,IEEE Year: 2024
+Mutation-based Consistency Testing for Evaluating the Code Understanding Capability of LLMs,IEEE Year: 2024
+Thai Question Text-To-SQL Parsing Using Transformer,IEEE Year: 2024
+"Mitigating False Positive Static Analysis Warnings: Progress, Challenges, and Opportunities",IEEE Year: 2023
+Gamma: Revisiting Template-Based Automated Program Repair Via Mask Prediction,IEEE Year: 2023
+ChatGPT vs SBST: A Comparative Assessment of Unit Test Suite Generation,IEEE Year: 2024
+Automatic Issue Classifier: A Transfer Learning Framework for Classifying Issue Reports,IEEE Year: 2021
+Emotion Recognition on StackOverflow Posts Using BERT,IEEE Year: 2022
+Imperfect Code Generation: Uncovering Weaknesses in Automatic Code Generation by Large Language Models,IEEE Year: 2024
+User Centric Evaluation of Code Generation Tools (Invited Paper),IEEE Year: 2024
+Automatic Commit Message Generation: A Critical Review and Directions for Future Work,IEEE Year: 2024
+Advancing Formal Verification: Fine-Tuning LLMs for Translating Natural Language Requirements to CTL Specifications,IEEE Year: 2024
+Examining the Role of Natural Language Processing in Generating Topics from Web Content,IEEE Year: 2023
+DRMiner: Extracting Latent Design Rationale from Jira Issue Logs,IEEE Year: 2024
+A Benchmark Study of the Contemporary Toxicity Detectors on Software Engineering Interactions,IEEE Year: 2020
+Just-In-Time TODO-Missed Commits Detection,IEEE Year: 2024
+HYDBre: A Hybrid Retrieval Method for Detecting Duplicate Software Bug Reports,IEEE Year: 2024
+"PyBugHive: A Comprehensive Database of Manually Validated, Reproducible Python Bugs",IEEE Year: 2024
+E2S2: Encoding-Enhanced Sequence-to-Sequence Pretraining for Language Understanding and Generation,IEEE Year: 2024
+Compositional API Recommendation for Library-Oriented Code Generation,IEEE Year: 2024
+DependLoc: A Dependency-based Framework For Bug Localization,IEEE Year: 2020
+CyberMetric: A Benchmark Dataset based on Retrieval-Augmented Generation for Evaluating LLMs in Cybersecurity Knowledge,IEEE Year: 2024
+FixEval: Execution-based Evaluation of Program Fixes for Programming Problems,IEEE Year: 2023
+Empowering Hardware Security with LLM: The Development of a Vulnerable Hardware Database,IEEE Year: 2024
+Enhancing Bug Report Summaries Through Knowledge-Specific and Contrastive Learning Pre-Training,IEEE Year: 2024
+RGD: Multi-LLM Based Agent Debugger via Refinement and Generation Guidance,IEEE Year: 2024
+HLSFactory: A Framework Empowering High-Level Synthesis Datasets for Machine Learning and Beyond,IEEE Year: 2024
+Deriving Domain Models From User Stories: Human vs. Machines,IEEE Year: 2024
+Bridging the Language Gap: Knowledge Injected Multilingual Question Answering,IEEE Year: 2021
+cPV – Simulation and Verification for Membrane Computing,IEEE Year: 2022
+Unified Instance and Knowledge Alignment Pretraining for Aspect-Based Sentiment Analysis,IEEE Year: 2023
+ReqCompletion: Domain-Enhanced Automatic Completion for Software Requirements,IEEE Year: 2024
+CHAMP: Characterizing Undesired App Behaviors from User Comments Based on Market Policies,IEEE Year: 2021
+What Do Users Ask in Open-Source AI Repositories? An Empirical Study of GitHub Issues,IEEE Year: 2023
+On the Influence of Biases in Bug Localization: Evaluation and Benchmark,IEEE Year: 2022
+Business Compliance Detection of Smart Contracts in Electricity and Carbon Trading Scenarios,IEEE Year: 2024
+LLM-Based Test-Driven Interactive Code Generation: User Study and Empirical Evaluation,IEEE Year: 2024
+"Exploring the Landscape of Intrinsic Plagiarism Detection: Benchmarks, Techniques, Evolution, and Challenges",IEEE Year: 2023
+DomainVoyager: Embracing The Unknown Domain by Prompting for Automatic Augmentation,IEEE Year: 2024
+CLAIM: An Enhanced Machine Learning Technique for Discrepancy Report Analysis,IEEE Year: 2020
+Appearance-Trajectory Network for Video Anomaly Detection System,IEEE Year: 2024
+Requirements Classification for Traceability Link Recovery,IEEE Year: 2024
+Automatic Design of Deep Graph Neural Networks With Decoupled Mode,IEEE Year: 2024
+Benchmarking Large Language Models for Ethereum Smart Contract Development,IEEE Year: 2024
+How Far Have We Gone in Binary Code Understanding Using Large Language Models,IEEE Year: 2024
+Towards Efficient Fine-Tuning of Language Models With Organizational Data for Automated Software Review,IEEE Year: 2024
+RTL-Repo: A Benchmark for Evaluating LLMs on Large-Scale RTL Design Projects,IEEE Year: 2024
+Large Language Model-assisted Surrogate Modelling for Engineering Optimization,IEEE Year: 2024
+Understanding Open Source Large Language Models: An Exploratory Study,IEEE Year: 2024
+Chain-of-Thought in Neural Code Generation: From and for Lightweight Language Models,IEEE Year: 2024
+Commit Message Generation via ChatGPT: How Far are We?,IEEE Year: 2024
+Emotion Classification In Software Engineering Texts: A Comparative Analysis of Pre-trained Transformers Language Models,IEEE Year: 2024
+Exploring Parameter-Efficient Fine-Tuning of Large Language Model on Automated Program Repair,IEEE Year: 2024
+The Causal Reasoning Ability of Open Large Language Model: A Comprehensive and Exemplary Functional Testing,IEEE Year: 2023
+CodeFuse-13B: A Pretrained Multi-Lingual Code Large Language Model,IEEE Year: 2024
+An Empirical Study on Fine-Tuning Large Language Models of Code for Automated Program Repair,IEEE Year: 2023
+Mutation-based Consistency Testing for Evaluating the Code Understanding Capability of LLMs,IEEE Year: 2024
+Traces of Memorisation in Large Language Models for Code,IEEE Year: 2024
+"Data Generation, Testing and Evaluation of Chinese Natural Language Processing in the Cloud",IEEE Year: 2022
+Evaluating Diverse Large Language Models for Automatic and General Bug Reproduction,IEEE Year: 2024
+Sallm: Security Assessment of Generated Code,IEEE Year: 2024
+ST-Xception: A Depthwise Separable Convolution Network for Military Sign Language Recognition,IEEE Year: 2020
+Fix the Tests: Augmenting LLMs to Repair Test Cases with Static Collector and Neural Reranker,IEEE Year: 2024
+How Effectively Do Code Language Models Understand Poor-Readability Code?,IEEE Year: 2024
+High-precision Online Log Parsing with Large Language Models,IEEE Year: 2024
+Qiskit HumanEval: An Evaluation Benchmark for Quantum Code Generative Models,IEEE Year: 2024
+Automatic Parallelization with CodeT5+: A Model for Generating OpenMP Directives,IEEE Year: 2024
+On the Use of Deep Learning Models for Semantic Clone Detection,IEEE Year: 2024
+Benchmarking Large Language Models for Ethereum Smart Contract Development,IEEE Year: 2024
+How Far Have We Gone in Binary Code Understanding Using Large Language Models,IEEE Year: 2024
+Towards Efficient Fine-Tuning of Language Models With Organizational Data for Automated Software Review,IEEE Year: 2024
+RTL-Repo: A Benchmark for Evaluating LLMs on Large-Scale RTL Design Projects,IEEE Year: 2024
+Large Language Model-assisted Surrogate Modelling for Engineering Optimization,IEEE Year: 2024
+Understanding Open Source Large Language Models: An Exploratory Study,IEEE Year: 2024
+Chain-of-Thought in Neural Code Generation: From and for Lightweight Language Models,IEEE Year: 2024
+Commit Message Generation via ChatGPT: How Far are We?,IEEE Year: 2024
+Emotion Classification In Software Engineering Texts: A Comparative Analysis of Pre-trained Transformers Language Models,IEEE Year: 2024
+Exploring Parameter-Efficient Fine-Tuning of Large Language Model on Automated Program Repair,IEEE Year: 2024
+The Causal Reasoning Ability of Open Large Language Model: A Comprehensive and Exemplary Functional Testing,IEEE Year: 2023
+CodeFuse-13B: A Pretrained Multi-Lingual Code Large Language Model,IEEE Year: 2024
+An Empirical Study on Fine-Tuning Large Language Models of Code for Automated Program Repair,IEEE Year: 2023
+Mutation-based Consistency Testing for Evaluating the Code Understanding Capability of LLMs,IEEE Year: 2024
+Traces of Memorisation in Large Language Models for Code,IEEE Year: 2024
+"Data Generation, Testing and Evaluation of Chinese Natural Language Processing in the Cloud",IEEE Year: 2022
+Evaluating Diverse Large Language Models for Automatic and General Bug Reproduction,IEEE Year: 2024
+Sallm: Security Assessment of Generated Code,IEEE Year: 2024
+ST-Xception: A Depthwise Separable Convolution Network for Military Sign Language Recognition,IEEE Year: 2020
+Fix the Tests: Augmenting LLMs to Repair Test Cases with Static Collector and Neural Reranker,IEEE Year: 2024
+How Effectively Do Code Language Models Understand Poor-Readability Code?,IEEE Year: 2024
+High-precision Online Log Parsing with Large Language Models,IEEE Year: 2024
+Qiskit HumanEval: An Evaluation Benchmark for Quantum Code Generative Models,IEEE Year: 2024
+Automatic Parallelization with CodeT5+: A Model for Generating OpenMP Directives,IEEE Year: 2024
+On the Use of Deep Learning Models for Semantic Clone Detection,IEEE Year: 2024
+Automated Test Case Generation for Satellite FRD Using NLP and Large Language Model,IEEE Year: 2024
+Towards Understanding the Effectiveness of Large Language Models on Directed Test Input Generation,IEEE Year: 2024
+Learning Autocompletion from Real-World Datasets,IEEE Year: 2021
+GPTCloneBench: A comprehensive benchmark of semantic clones and cross-language clones using GPT-3 model and SemanticCloneBench,IEEE Year: 2023
+COBE: A Natural Language Code Search Robustness Benchmark,IEEE Year: 2022
+Reality Bites: Assessing the Realism of Driving Scenarios with Large Language Models,IEEE Year: 2024
+Thai Question Text-To-SQL Parsing Using Transformer,IEEE Year: 2024
+The Fault in our Stars: Quality Assessment of Code Generation Benchmarks,IEEE Year: 2024
+Advanced Smart Contract Vulnerability Detection Using Large Language Models,IEEE Year: 2024
+Benchmarking Causal Study to Interpret Large Language Models for Source Code,IEEE Year: 2023
+Green Runner: A tool for efficient deep learning component selection,IEEE Year: 2024
+Gamma: Revisiting Template-Based Automated Program Repair Via Mask Prediction,IEEE Year: 2023
+Impact of Code Language Models on Automated Program Repair,IEEE Year: 2023
+ChatGPT vs SBST: A Comparative Assessment of Unit Test Suite Generation,IEEE Year: 2024
+A Benchmark Study of the Contemporary Toxicity Detectors on Software Engineering Interactions,IEEE Year: 2020
+Test-Driven Development and LLM-based Code Generation,IEEE Year: 2024
+CrossCodeBench: Benchmarking Cross-Task Generalization of Source Code Models,IEEE Year: 2023
+Software Entity Recognition with Noise-Robust Learning,IEEE Year: 2023
+A Data-oriented Approach for Detecting offensive Language in Arabic Tweets,IEEE Year: 2021
+A Comparative Study of ML Models on Large-Scale Turkish Sentiment Datasets,IEEE Year: 2024
+DRMiner: Extracting Latent Design Rationale from Jira Issue Logs,IEEE Year: 2024
+Emotion Recognition on StackOverflow Posts Using BERT,IEEE Year: 2022
+"Mitigating False Positive Static Analysis Warnings: Progress, Challenges, and Opportunities",IEEE Year: 2023
+Understanding Code Changes Practically with Small-Scale Language Models,IEEE Year: 2024
+Imperfect Code Generation: Uncovering Weaknesses in Automatic Code Generation by Large Language Models,IEEE Year: 2024
+An Empirical Comparison of Code Generation Approaches for Ansible,IEEE Year: 2024
+SEARCHD - Advanced Retrieval with Text Generation using Large Language Models and Cross Encoding Re-ranking,IEEE Year: 2024
+Log Parsing using Semantic Filtering based Prompt Learning,IEEE Year: 2024
+DACOS—A Manually Annotated Dataset of Code Smells,IEEE Year: 2023
+Research on AI Chip Large Model Inference Testing Technology,IEEE Year: 2024
+Automatic Issue Classifier: A Transfer Learning Framework for Classifying Issue Reports,IEEE Year: 2021
+DependLoc: A Dependency-based Framework For Bug Localization,IEEE Year: 2020
+Semantic Sleuth: Identifying Ponzi Contracts via Large Language Models,IEEE Year: 2024
+E2S2: Encoding-Enhanced Sequence-to-Sequence Pretraining for Language Understanding and Generation,IEEE Year: 2024
+Deriving Domain Models From User Stories: Human vs. Machines,IEEE Year: 2024
+Examining the Role of Natural Language Processing in Generating Topics from Web Content,IEEE Year: 2023
+User Centric Evaluation of Code Generation Tools (Invited Paper),IEEE Year: 2024
+Automatic Commit Message Generation: A Critical Review and Directions for Future Work,IEEE Year: 2024
+Advancing Formal Verification: Fine-Tuning LLMs for Translating Natural Language Requirements to CTL Specifications,IEEE Year: 2024
+The NLBSE'23 Tool Competition,IEEE Year: 2023
+Re(gEx|DoS)Eval: Evaluating Generated Regular Expressions and their Proneness to DoS Attacks,IEEE Year: 2024
+CyberMetric: A Benchmark Dataset based on Retrieval-Augmented Generation for Evaluating LLMs in Cybersecurity Knowledge,IEEE Year: 2024
+On the Importance of Building High-quality Training Datasets for Neural Code Search,IEEE Year: 2022
+Just-In-Time TODO-Missed Commits Detection,IEEE Year: 2024
+Invited Paper: Software/Hardware Co-design for LLM and Its Application for Design Verification,IEEE Year: 2024
+Using Text-augmented Visual Prompt Learning for Histopathology Image Classification,IEEE Year: 2024
+An Evaluation Of Hospital Accreditation From The Survey With Text Vector Analysis Techniques,IEEE Year: 2023
+The NLBSE’24 Tool Competition,IEEE Year: 2024
+SAPIENTML: Synthesizing Machine Learning Pipelines by Learning from Human-Written Solutions,IEEE Year: 2022
+Zero-Shot Text Classification with Semantically Extended Textual Entailment,IEEE Year: 2023
+FixEval: Execution-based Evaluation of Program Fixes for Programming Problems,IEEE Year: 2023
+"PyBugHive: A Comprehensive Database of Manually Validated, Reproducible Python Bugs",IEEE Year: 2024
+Supersonic: Learning to Generate Source Code Optimizations in C/C++,IEEE Year: 2024
+Can a Llama Be a Watchdog? Exploring Llama 3 and Code Llama for Static Application Security Testing,IEEE Year: 2024
+Out of Context: How Important is Local Context in Neural Program Repair?,IEEE Year: 2024
+MGIMM: Multi-Granularity Instruction Multimodal Model for Attribute-Guided Remote Sensing Image Detailed Description,IEEE Year: 2024
+RemoteCLIP: A Vision Language Foundation Model for Remote Sensing,IEEE Year: 2024
+Hierarchical Graph Transformer-Based Deep Learning Model for Large-Scale Multi-Label Text Classification,IEEE Year: 2020
+Empowering Hardware Security with LLM: The Development of a Vulnerable Hardware Database,IEEE Year: 2024
+Compositional API Recommendation for Library-Oriented Code Generation,IEEE Year: 2024
+Adaptive Tidying Robots: Learning from Interaction and Observation,IEEE Year: 2025
+Lost in Translation: A Study of Bugs Introduced by Large Language Models While Translating Code,IEEE Year: 2024
+Unified Instance and Knowledge Alignment Pretraining for Aspect-Based Sentiment Analysis,IEEE Year: 2023
+One-Stream Vision-Language Memory Network for Object Tracking,IEEE Year: 2024
+cPV – Simulation and Verification for Membrane Computing,IEEE Year: 2022
+ReqCompletion: Domain-Enhanced Automatic Completion for Software Requirements,IEEE Year: 2024
+Revisiting Binary Code Similarity Analysis Using Interpretable Feature Engineering and Lessons Learned,IEEE Year: 2023
+Product Helpfulness Detection With Novel Transformer Based BERT Embedding and Class Probability Features,IEEE Year: 2024
+CHAMP: Characterizing Undesired App Behaviors from User Comments Based on Market Policies,IEEE Year: 2021
+Pre-Trained Image Processing Transformer,IEEE Year: 2021
+RGD: Multi-LLM Based Agent Debugger via Refinement and Generation Guidance,IEEE Year: 2024
+Webly Supervised Knowledge Embedding Model for Visual Reasoning,IEEE Year: 2020
+CodeS: Towards Code Model Generalization Under Distribution Shift,IEEE Year: 2023
+An Empirical Study on Noisy Label Learning for Program Understanding,IEEE Year: 2024
+Business Compliance Detection of Smart Contracts in Electricity and Carbon Trading Scenarios,IEEE Year: 2024
+OPTango: Multi-central Representation Learning against Innumerable Compiler Optimization for Binary Diffing,IEEE Year: 2023
+VULGEN: Realistic Vulnerability Generation Via Pattern Mining and Deep Learning,IEEE Year: 2023
+Automatic Quality Enhancement of Medical Diagnostic Scans with Deep Neural Image Super-Resolution Models,IEEE Year: 2020
+Nl2Fix: Generating Functionally Correct Code Edits from Bug Descriptions,IEEE Year: 2024
+Exploring the Effectiveness of Abstract Syntax Tree Patterns for Algorithm Recognition,IEEE Year: 2024
+Requirements Classification for Traceability Link Recovery,IEEE Year: 2024
+LLM-Based Test-Driven Interactive Code Generation: User Study and Empirical Evaluation,IEEE Year: 2024
+"KGLiDS: A Platform for Semantic Abstraction, Linking, and Automation of Data Science",IEEE Year: 2024
+"Exploring the Landscape of Intrinsic Plagiarism Detection: Benchmarks, Techniques, Evolution, and Challenges",IEEE Year: 2023
+DomainVoyager: Embracing The Unknown Domain by Prompting for Automatic Augmentation,IEEE Year: 2024
+Accurate and Fast Compressed Video Captioning,IEEE Year: 2023
+Spark Meets MPI: Towards High-Performance Communication Framework for Spark using MPI,IEEE Year: 2022
+Streaming Technologies and Serialization Protocols: Empirical Performance Analysis,IEEE Year: 2024
+Appearance-Trajectory Network for Video Anomaly Detection System,IEEE Year: 2024
+Controllable and One-to-many Generate QA pairs from Contexts for Semi-Supervised Question Answering,IEEE Year: 2023
+LLM-Guided Cross-Modal Point Cloud Quality Assessment: A Graph Learning Approach,IEEE Year: 2024
+Automatic Design of Deep Graph Neural Networks With Decoupled Mode,IEEE Year: 2024
+Video Corpus Moment Retrieval via Deformable Multigranularity Feature Fusion and Adversarial Training,IEEE Year: 2024
+Structured Multimodal Attentions for TextVQA,IEEE Year: 2022
+Improving Video Moment Retrieval by Auxiliary Moment-Query Pairs with Hyper-Interaction,IEEE Year: 2024
+Towards Efficient Fine-Tuning of Language Models With Organizational Data for Automated Software Review,IEEE Year: 2024
+Harnessing Large Language Models for Software Vulnerability Detection: A Comprehensive Benchmarking Study,IEEE Year: 2025
+Towards Evaluation and Understanding of Large Language Models for Cyber Operation Automation,IEEE Year: 2023
+A Comprehensive Overview of Backdoor Attacks in Large Language Models Within Communication Networks,IEEE Year: 2024
+Understanding Code Changes Practically with Small-Scale Language Models,IEEE Year: 2024
+Large Language Models on Graphs: A Comprehensive Survey,IEEE Year: 2024
+Unsupervised Abstractive Text Summarization with Length Controlled Autoencoder,IEEE Year: 2022
+"PyBugHive: A Comprehensive Database of Manually Validated, Reproducible Python Bugs",IEEE Year: 2024
+Empowering Hardware Security with LLM: The Development of a Vulnerable Hardware Database,IEEE Year: 2024
+Using Ensemble Inference to Improve Recall of Clone Detection,IEEE Year: 2023
+A Benchmark Study of the Contemporary Toxicity Detectors on Software Engineering Interactions,IEEE Year: 2020
+"Mitigating False Positive Static Analysis Warnings: Progress, Challenges, and Opportunities",IEEE Year: 2023
+Automatic Commit Message Generation: A Critical Review and Directions for Future Work,IEEE Year: 2024
+Tell Me How to Survey: Literature Review Made Simple with Automatic Reading Path Generation,IEEE Year: 2022
+Discriminative Probing and Tuning for Text-to-Image Generation,IEEE Year: 2024
+Persistence of RDF Data into NoSQL: A Survey and a Reference Architecture,IEEE Year: 2022
+Streaming Technologies and Serialization Protocols: Empirical Performance Analysis,IEEE Year: 2024
+"Understand Me, if You Refer to Aspect Knowledge: Knowledge-Aware Gated Recurrent Memory Network",IEEE Year: 2022
+Towards Efficient Fine-Tuning of Language Models With Organizational Data for Automated Software Review,IEEE Year: 2024
+Harnessing Large Language Models for Software Vulnerability Detection: A Comprehensive Benchmarking Study,IEEE Year: 2025
+Towards Evaluation and Understanding of Large Language Models for Cyber Operation Automation,IEEE Year: 2023
+A Comprehensive Overview of Backdoor Attacks in Large Language Models Within Communication Networks,IEEE Year: 2024
+Understanding Code Changes Practically with Small-Scale Language Models,IEEE Year: 2024
+Large Language Models on Graphs: A Comprehensive Survey,IEEE Year: 2024
+Unsupervised Abstractive Text Summarization with Length Controlled Autoencoder,IEEE Year: 2022
+"PyBugHive: A Comprehensive Database of Manually Validated, Reproducible Python Bugs",IEEE Year: 2024
+Empowering Hardware Security with LLM: The Development of a Vulnerable Hardware Database,IEEE Year: 2024
+Using Ensemble Inference to Improve Recall of Clone Detection,IEEE Year: 2023
+A Benchmark Study of the Contemporary Toxicity Detectors on Software Engineering Interactions,IEEE Year: 2020
+"Mitigating False Positive Static Analysis Warnings: Progress, Challenges, and Opportunities",IEEE Year: 2023
+Automatic Commit Message Generation: A Critical Review and Directions for Future Work,IEEE Year: 2024
+Tell Me How to Survey: Literature Review Made Simple with Automatic Reading Path Generation,IEEE Year: 2022
+Discriminative Probing and Tuning for Text-to-Image Generation,IEEE Year: 2024
+Persistence of RDF Data into NoSQL: A Survey and a Reference Architecture,IEEE Year: 2022
+Streaming Technologies and Serialization Protocols: Empirical Performance Analysis,IEEE Year: 2024
+"Understand Me, if You Refer to Aspect Knowledge: Knowledge-Aware Gated Recurrent Memory Network",IEEE Year: 2022
